@@ -1,6 +1,6 @@
 # Awesome-Generative-AI
 
-![Banner Image](LINK_TO_BANNER_IMAGE)
+![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-22%2021.05.06%20-%20A%20banner%20image%20for%20the%20'Awesome-Generative-AI'%20GitHub%20repository.png)
 
 **Awesome-Generative-AI** is your go-to repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
 
