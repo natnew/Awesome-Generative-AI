@@ -34,5 +34,5 @@ Let's roll up our sleeves and set up your environment! Follow these simple steps
 
 2. **Get the Code**: Clone our repository:
    ```bash
-   git clone LINK_TO_REPOSITORY
+   git clone https://github.com/natnew/Awesome-Generative-AI
 
