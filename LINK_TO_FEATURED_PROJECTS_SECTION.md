@@ -22,10 +22,10 @@ Dive into the fascinating world of generative AI with our handpicked collection 
 From digital paintings to 3D models, explore how AI is redefining the boundaries of art and design.
 
 ### Featured Projects:
-1. **AI Dreamscapes**: [Explore](LINK_TO_PROJECT_1)
-2. **Virtual Fashion Designer**: [Discover](LINK_TO_PROJECT_2)
+1. **AI Dreamscapes**: [Explore](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
+2. **Virtual Fashion Designer**: [Discover](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
-🚀 **Get Inspired**: Check out our [AI Art Gallery](LINK_TO_AI_ART_GALLERY)
+🚀 **Get Inspired**: Check out our [AI Art Gallery](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 ---
 
@@ -35,10 +35,10 @@ From digital paintings to 3D models, explore how AI is redefining the boundaries
 Listen to the symphonies of the future created by AI. Discover projects where AI composes, performs, and revolutionizes music.
 
 ### Highlighted Creations:
-1. **Synthetic Symphonies**: [Listen](LINK_TO_PROJECT_3)
-2. **AI DJ**: [Groove](LINK_TO_PROJECT_4)
+1. **Synthetic Symphonies**: [Listen](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
+2. **AI DJ**: [Groove](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
-🎧 **Featured Playlist**: [AI-Generated Music](LINK_TO_MUSIC_PLAYLIST)
+🎧 **Featured Playlist**: [AI-Generated Music](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 ---
 
@@ -48,10 +48,10 @@ Listen to the symphonies of the future created by AI. Discover projects where AI
 AI is not just about numbers; it's about words too! Dive into projects where AI writes poems, stories, and more.
 
 ### Top Picks:
-1. **AI Poet**: [Read](LINK_TO_PROJECT_5)
-2. **Storyteller Bot**: [Explore](LINK_TO_PROJECT_6)
+1. **AI Poet**: [Read](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
+2. **Storyteller Bot**: [Explore](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
-✍️ **Try It Yourself**: [Interactive Writing Tool](LINK_TO_WRITING_TOOL)
+✍️ **Try It Yourself**: [Interactive Writing Tool](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 ---
 
@@ -61,10 +61,10 @@ AI is not just about numbers; it's about words too! Dive into projects where AI 
 Generative AI is full of surprises! Check out some of the most unconventional and innovative applications.
 
 ### Innovative Projects:
-1. **AI in Healthcare**: [Learn More](LINK_TO_PROJECT_7)
-2. **Smart City Planner**: [Discover](LINK_TO_PROJECT_8)
+1. **AI in Healthcare**: [Learn More](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
+2. **Smart City Planner**: [Discover](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
-🤖 **Explore More**: [AI Innovations](LINK_TO_AI_INNOVATIONS)
+🤖 **Explore More**: [AI Innovations](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 ---
 
@@ -74,8 +74,8 @@ Generative AI is full of surprises! Check out some of the most unconventional an
 Our community is bustling with creativity! Here are some projects made by our talented members.
 
 ### Community Projects:
-1. **Homemade AI Art**: [View](LINK_TO_PROJECT_9)
-2. **DIY AI Lab**: [See How](LINK_TO_PROJECT_10)
+1. **Homemade AI Art**: [View](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
+2. **DIY AI Lab**: [See How](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 🌟 **Join the Community**: [Get Involved](LINK_TO_COMMUNITY_PAGE)
 
@@ -86,11 +86,11 @@ Our community is bustling with creativity! Here are some projects made by our ta
 
 Got an AI project that you're proud of? We'd love to feature it! Share your work with our community and get recognized.
 
-📝 **Submit Here**: [Project Submission Form](LINK_TO_SUBMISSION_FORM)
+📝 **Submit Here**: [Project Submission Form](https://github.com/natnew/Awesome-Generative-AI/blob/main/Projects.md)
 
 ---
 
 *Explore, get inspired, and start creating. The world of generative AI awaits!*
 
-[Back to Main README](LINK_TO_MAIN_README)
+[Back to Main README](https://github.com/natnew/Awesome-Generative-AI)
 
