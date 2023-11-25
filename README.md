@@ -1,7 +1,13 @@
 # Awesome-Generative-AI
 
-![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-22%2021.05.06%20-%20A%20banner%20image%20for%20the%20'Awesome-Generative-AI'%20GitHub%20repository.png)
+![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-25%2001.18.11%20-%20AwesomeGenAI.png)
 
+![Static Badge](https://img.shields.io/badge/Welcome%20to%20Awesome%20Generative%20AI%20-%20Green)
+![Static Badge](https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true)
+
+Created by [NatNew](https://github.com/natnew) and [Contributors](https://github.com/natnew/Awesome-Generative-AI/settings/access)
+
+## About
 **Awesome-Generative-AI** is your go-to repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
 
 ---
