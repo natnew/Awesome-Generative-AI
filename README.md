@@ -105,6 +105,20 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 
 ---
 
+## Awesome Generative AI List
+
+##### Articles
+* [AI Trends](aitrends.com) - Offers insights on the latest developments in AI.
+* [Synced Review](syncedreview.com) - Reports on AI technology and industry developments.
+* [The Gradient](thegradient.pub) - Publishes perspectives on AI and emerging technology.
+* [VentureBeat AI](venturebeat.com) - Focuses on AI in the business sector.
+* [MIT Technology Review AI Section](https://cdn.technologyreview.com/) - Provides cutting-edge research and perspectives in AI.
+* [Harvard Business Review  AI Section](https://hbr.org/) - Offers insights on AI's impact on business.
+* [AI Magazine](aaai.org) - Published by the Association for the Advancement of Artificial Intelligence.
+* [ScienceDaily (Artificial Intelligence News)](sciencedaily.com) - Covers the latest research news in AI.
+
+---
+
 ## Connect with Us
 - [Follow us on Twitter](LINK_TO_TWITTER)
 - [Join our Discord Community](LINK_TO_DISCORD)
