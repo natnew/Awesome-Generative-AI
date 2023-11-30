@@ -122,16 +122,26 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Speechify](https://speechify.com/) - Text-to-speech reader with natural-sounding voice.
 * [Murf](https://murf.ai/) - Offers studio-quality voice for presentations and podcasts.
 * [Play.ht](https://play.ht/) - AI Voice Generator for realistic Text to Speech audio.
+
+##### Automation Tools
+* [Zapier](https://zapier.com/) - Automates tasks between web apps.
+* [Blue Prism](https://www.blueprism.com/) - Robotic process automation software.
+* [WorkFusion](https://www.workfusion.com/) -Intelligent automation and RPA powered by AI.
+* [Integromat](https://www.make.com/) - An advanced online automation platform.
+* [Pega RPA](https://www.pega.com/) - Automates repetitive tasks in your workflows.
+* [IBM Robotic Process Automation](https://www.ibm.com/) - AI-powered automation platform.
+* [Kofax](https://www.kofax.com/) - Automation software for digital workflow transformation.
+* [Automate.io](https://www.automate.io/) - Connects all your cloud applications with amazing ease.
   
 ##### Bot Building Tools
-* [Botpress](https://botpress.com/)
-* [Pandorabots](https://home.pandorabots.com/)
-* [Rasa](https://rasa.com/)
-* [ManyChat](https://manychat.com/)
-* [Chatfuel](https://chatfuel.com/)
-* [Botsify](https://botsify.com/)
-* [Wit.ai](https://wit.ai/)
-* [Botkit](https://github.com/howdyai/botkit)
+* [Botpress](https://botpress.com/) - Open-source conversational AI platform.
+* [Pandorabots](https://home.pandorabots.com/) - Platform for building and deploying chatbots.
+* [Rasa](https://rasa.com/) - Open-source machine learning framework for automated text and voice-based conversations.
+* [ManyChat](https://manychat.com/) - Visual bot builder for Facebook Messenger with broadcasts, analytics, scheduled posting, and many other features.
+* [Chatfuel](https://chatfuel.com/) - A leading chatbot platform for Messenger.
+* [Botsify](https://botsify.com/) - A simple way to build AI chatbots for websites.
+* [Wit.ai](https://wit.ai/) - Voice-activated interface for apps.
+* [Botkit](https://github.com/howdyai/botkit) - A toolkit for making bot applications.
 
 ##### Code Generators
 * [Tabnine](https://www.tabnine.com/) - AI code generator offering context-based code completions.
@@ -139,12 +149,52 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [PyCharm](https://www.jetbrains.com/pycharm) - Offers features like syntax highlighting, code formatting, and error-highlighting.
 * [OpenAI Codex](https://openai.com/) - Trained on GitHub repositories, assists in coding in multiple languages.
 
+##### Collaboration Tools
+* [Dropbox](https://www.dropbox.com/) - File hosting service offering personal cloud, file synchronization, cloud storage, and client software.
+* [Confluence by Atlassian](https://www.atlassian.com/) - Content collaboration tool used to help teams collaborate and share knowledge efficiently.
+* [Trello](https://trello.com/) - Web-based Kanban-style list-making application.
+* [Miro](https://miro.com/) - Online collaborative whiteboarding platform to bring teams together, anytime, anywhere.
+* [Evernote](https://evernote.com/) - App designed for note taking, organizing, task management, and archiving.
+* [Flock](https://www.flock.com/) - A communication app for teams.
+* [Mural](https://www.mural.co/) - Digital workspace for visual collaboration.
+
+##### Co-Pilot Tools
+* [Tabnine](https://www.tabnine.com/) - Code completion tool powered by machine learning.
+* [Codeguru by AWS](https://aws.amazon.com/) - Automated code review and performance profiling tool.
+* [DeepCode](https://snyk.io/) - AI-based code review tool.
+* [Codota](https://www.codota.com/) - AI pair programmer to help you write better code.
+* [IntelliCode by Microsoft](https://visualstudio.microsoft.com/) - AI-assisted code completion tool.
+* [Sourcegraph](https://sourcegraph.com/) - Universal code search tool.
+* [Klocwork](https://www.perforce.com/) - Static code analysis and SAST tool.
+* [ReSharper by JetBrains](https://www.jetbrains.com/) - An extension for Microsoft Visual Studio that provides on-the-fly code analysis and eliminates errors in C#, VB.NET, XAML, ASP.NET, and XML.
+
+
 ##### Design Generators
 * [Khroma](http://www.khroma.co/) - AI color tool for designers, offering color discovery and selection.
 * [Uizard](https://uizard.io/) - Enables rapid design of interfaces and conversion of screenshots to mockups.
 * [Colormind](http://colormind.io/) - AI-powered color scheme generator learning from art and photos.
 * [Designs.ai](https://designs.ai/) - Helps users create designs and logos without technical expertise.
 * [Fronty AI](https://fronty.com/) - Converts images to HTML CSS for website design.
+
+##### Frameworks and Models
+* [TensorFlow]()
+* [Sci-kit Learn]()
+* [Pandas]()
+* [NumPy]()
+* [PyTorch]()
+* [Keras]()
+* [Theano]()
+* [Google ML Kit]()
+* [Caffe 2]()
+* [Microsoft CNTK]()
+
+
+##### Music Generators
+* [AIVA](https://www.aiva.ai/) - AI tool for creating music compositions in various genres.
+* [Amper AI](https://www.aigems.net/) - Collaborates with musicians to generate original music datasets.
+* [Jukebox by OpenAI](https://openai.com/) - Generates music and singing in various styles based on user input.
+* [Soundraw](https://soundraw.io/) - AI tool for creating royalty-free music.
+* [Evoke](https://evokemusic.ai/) - AI-powered music library with a diverse collection.
 ---
 
 ## Connect with Us
