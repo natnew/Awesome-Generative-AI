@@ -108,15 +108,43 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 ## Awesome Generative AI List
 
 ##### Articles
-* [AI Trends](aitrends.com) - Offers insights on the latest developments in AI.
-* [Synced Review](syncedreview.com) - Reports on AI technology and industry developments.
-* [The Gradient](thegradient.pub) - Publishes perspectives on AI and emerging technology.
-* [VentureBeat AI](venturebeat.com) - Focuses on AI in the business sector.
+* [AI Trends](https://aitrends.com/) - Offers insights on the latest developments in AI.
+* [Synced Review](https://syncedreview.com/) - Reports on AI technology and industry developments.
+* [The Gradient](https://thegradient.pub/) - Publishes perspectives on AI and emerging technology.
+* [VentureBeat AI](https://venturebeat.com/) - Focuses on AI in the business sector.
 * [MIT Technology Review AI Section](https://cdn.technologyreview.com/) - Provides cutting-edge research and perspectives in AI.
 * [Harvard Business Review  AI Section](https://hbr.org/) - Offers insights on AI's impact on business.
-* [AI Magazine](aaai.org) - Published by the Association for the Advancement of Artificial Intelligence.
-* [ScienceDaily (Artificial Intelligence News)](sciencedaily.com) - Covers the latest research news in AI.
+* [AI Magazine](https://aaai.org/) - Published by the Association for the Advancement of Artificial Intelligence.
+* [ScienceDaily (Artificial Intelligence News)](https://www.sciencedaily.com/) - Covers the latest research news in AI.
 
+##### Audio - Voice Generators
+* [Replica](https://replika.ai/) - AI-powered voice generator for producing voice lines.
+* [Speechify](https://speechify.com/) - Text-to-speech reader with natural-sounding voice.
+* [Murf](https://murf.ai/) - Offers studio-quality voice for presentations and podcasts.
+* [Play.ht](https://play.ht/) - AI Voice Generator for realistic Text to Speech audio.
+  
+##### Bot Building Tools
+* [Botpress](https://botpress.com/)
+* [Pandorabots](https://home.pandorabots.com/)
+* [Rasa](https://rasa.com/)
+* [ManyChat](https://manychat.com/)
+* [Chatfuel](https://chatfuel.com/)
+* [Botsify](https://botsify.com/)
+* [Wit.ai](https://wit.ai/)
+* [Botkit](https://github.com/howdyai/botkit)
+
+##### Code Generators
+* [Tabnine](https://www.tabnine.com/) - AI code generator offering context-based code completions.
+* [K-Explorer](https://www.k-explorer.ai/) - Provides code snippet recommendations and enterprise code analysis.
+* [PyCharm](https://www.jetbrains.com/pycharm) - Offers features like syntax highlighting, code formatting, and error-highlighting.
+* [OpenAI Codex](https://openai.com/) - Trained on GitHub repositories, assists in coding in multiple languages.
+
+##### Design Generators
+* [Khroma](http://www.khroma.co/) - AI color tool for designers, offering color discovery and selection.
+* [Uizard](https://uizard.io/) - Enables rapid design of interfaces and conversion of screenshots to mockups.
+* [Colormind](http://colormind.io/) - AI-powered color scheme generator learning from art and photos.
+* [Designs.ai](https://designs.ai/) - Helps users create designs and logos without technical expertise.
+* [Fronty AI](https://fronty.com/) - Converts images to HTML CSS for website design.
 ---
 
 ## Connect with Us
