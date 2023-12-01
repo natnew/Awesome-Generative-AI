@@ -143,6 +143,14 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Wit.ai](https://wit.ai/) - Voice-activated interface for apps.
 * [Botkit](https://github.com/howdyai/botkit) - A toolkit for making bot applications.
 
+##### Cloud Platforms and Virtual Agents
+* [Amazon SageMaker](https://aws.amazon.com/sagemaker/) - A fully managed machine learning service by AWS, streamlining the entire machine learning workflow.
+* [Google AI Cloud Platform](https://cloud.google.com/products/ai) - Offers a suite of cloud-based tools and services for AI and ML applications.
+* [Microsoft Azure AI](https://azure.microsoft.com/en-us/overview/ai-platform/) - Provides a range of pre-built AI models and integrates with Azure services.
+* [Salesforce Einstein AI Cloud](https://www.salesforce.com/products/einstein/overview/) - Enhances CRM and intelligent decision-making with AI and ML.
+* [IBM Watson](https://www.ibm.com/watson) - Known for its cognitive computing capabilities and wide range of AI services.
+* [Oracle Cloud AI](https://www.oracle.com/artificial-intelligence/) - Offers AI and ML services, including predictive analytics and chatbots
+
 ##### Code Generators
 * [Tabnine](https://www.tabnine.com/) - AI code generator offering context-based code completions.
 * [K-Explorer](https://www.k-explorer.ai/) - Provides code snippet recommendations and enterprise code analysis.
@@ -177,16 +185,16 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Fronty AI](https://fronty.com/) - Converts images to HTML CSS for website design.
 
 ##### Frameworks and Models
-* [TensorFlow]()
-* [Sci-kit Learn]()
-* [Pandas]()
-* [NumPy]()
-* [PyTorch]()
-* [Keras]()
-* [Theano]()
-* [Google ML Kit]()
-* [Caffe 2]()
-* [Microsoft CNTK]()
+* [TensorFlow](https://www.tensorflow.org/) - Developed by the Google Brain team, this open-source AI library is used for machine learning and deep neural network research.
+* [Sci-kit Learn](https://scikit-learn.org/) - A Python library for machine learning tasks like classification, regression, and clustering.
+* [Pandas](https://pandas.pydata.org/) - A data analysis and manipulation library known for its comprehensive data manipulation tools.
+* [NumPy](https://numpy.org/) - Supports large, multi-dimensional arrays and matrices, with a vast collection of high-level mathematical functions.
+* [PyTorch](https://pytorch.org/) - Developed by Facebook's AI Research lab, this is a dynamic computational graph-based AI framework.
+* [Keras](https://keras.io/) - An open-source neural network library acting as an interface for TensorFlow and Theano.
+* [Theano](https://github.com/pytensor) - A library for numerical computation, particularly efficient for numerical tasks.
+* [Google ML Kit](https://developers.googleblog.com/) - A mobile SDK that brings Google's machine learning to Android and iOS apps.
+* [Caffe 2](https://caffe2.ai/) - A deep learning framework developed by Facebook.
+* [Microsoft CNTK](https://learn.microsoft.com/en-us/cognitive-toolkit/) - A deep learning framework known for its efficiency at scale.
 
 
 ##### Music Generators
