@@ -160,7 +160,7 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Pylint](https://www.pylint.org/) - A tool that helps to detect errors and potential problems in your JavaScript code.
 * [RuboCop](https://github.com/rubocop/rubocop) -A Python static code analysis tool.
 * [StyleCop](https://github.com/StyleCop/StyleCop) - A Ruby static code analysis and formatting tool.
-* * [StyleCop](https://github.com/StyleCop/StyleCop) -Analyzes C# source code to enforce a set of style and consistency rules.
+* [StyleCop](https://github.com/StyleCop/StyleCop) -Analyzes C# source code to enforce a set of style and consistency rules.
 
 ##### Code Generators
 * [Tabnine](https://www.tabnine.com/) - AI code generator offering context-based code completions.
