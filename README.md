@@ -176,6 +176,16 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Klocwork](https://www.perforce.com/) - Static code analysis and SAST tool.
 * [ReSharper by JetBrains](https://www.jetbrains.com/) - An extension for Microsoft Visual Studio that provides on-the-fly code analysis and eliminates errors in C#, VB.NET, XAML, ASP.NET, and XML.
 
+##### Customer Support and Sales
+* [SecondBrain (previously MagicChat)](https://www.secondbrain.fyi/) - AI tool for customer support.
+* [Chatfuel AI](https://www.chatfuel.com/) - AI chatbot for customer interaction.
+* [Second Nature](https://www.secondnature.ai/) - AI tool for customer engagement.
+* [Kustomer](https://www.kustomer.com/) - AI tool for customer service.
+* [AutoResponder](https://www.autoresponder.ai/) - AI tool for automated customer responses.
+* [MagicForm](https://www.magicform.ai/) - AI tool for form automation in customer interaction.
+* [Conversica](https://www.conversica.com/) - AI assistant for engaging potential customers.
+* [Candide](https://www.candide.ai/) - AI tool for customer support.
+* [WARMER.ai](https://www.warmer.ai/) - AI tool for sales and customer engagement.
 
 ##### Design Generators
 * [Khroma](http://www.khroma.co/) - AI color tool for designers, offering color discovery and selection.
@@ -196,13 +206,72 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Caffe 2](https://caffe2.ai/) - A deep learning framework developed by Facebook.
 * [Microsoft CNTK](https://learn.microsoft.com/en-us/cognitive-toolkit/) - A deep learning framework known for its efficiency at scale.
 
+##### GUIs
+* [Tableau](https://www.tableau.com/) - A powerful business intelligence and data visualization tool.
+* [Power BI](https://powerbi.microsoft.com/) - A Microsoft tool that turns data into visual insights.
+* [QlikView](https://www.qlik.com/us/products/qlikview) - Business intelligence and visualization software.
+* [Dataiku](https://www.dataiku.com/) - Collaborative data science platform with a user-friendly GUI.
+* [RapidMiner](https://rapidminer.com/) - Data science platform that includes a robust GUI.
+* [Alteryx](https://www.alteryx.com/) - Blends data science and analytics for deeper insights.
+* [Talend](https://www.talend.com/) - Data integration and data integrity with a graphical interface.
+* [D3.js](https://d3js.org/) - JavaScript library for producing dynamic, interactive data visualizations in web browsers.
 
+##### HR and Recruiting
+* [Paradox](https://www.paradox.ai/) - AI tool for human resources.
+* [Textio](https://www.textio.com/) - AI tool for job listing optimization.
+* [HiredScore](https://www.hiredscore.com/) - AI tool for talent acquisition.
+* [Juicebox (PeopleGPT)](https://www.juicebox.ai/) - AI tool for HR processes.
+* [Attract](https://www.attract.ai/) - AI tool for recruitment.
+* [Effy](https://www.effy.ai/) - AI tool for HR management.
+  
+##### Image Design
+* [Midjourney](https://beta.midjourney.com/) - Image design tool.
+* [DALL·E 3 by OpenAI](https://openai.com/) - AI model for image synthesis from text prompts.
+* [NightCafe](https://creator.nightcafe.studio/) - Art generator using Stable Diffusion and DALL-E 2 models.
+* [BlueWillow](https://www.bluewillow.ai/) - Image design tool.
+* [Bria](https://bria.ai/) - Image design tool.
+* [Stockimg](https://stockimg.ai/) - AI tool for generating stock images.
+* [StarryAI](https://starryai.com/) - Art generator app transforming text prompts into artwork.
+* [Craiyon (formerly DALL·E mini)](https://www.craiyon.com/) - Draws images from text prompts.
+* [Artbreeder](https://www.artbreeder.com/) - Allows users to ‘breed’ or remix images using machine learning.
+  
 ##### Music Generators
 * [AIVA](https://www.aiva.ai/) - AI tool for creating music compositions in various genres.
 * [Amper AI](https://www.aigems.net/) - Collaborates with musicians to generate original music datasets.
 * [Jukebox by OpenAI](https://openai.com/) - Generates music and singing in various styles based on user input.
 * [Soundraw](https://soundraw.io/) - AI tool for creating royalty-free music.
 * [Evoke](https://evokemusic.ai/) - AI-powered music library with a diverse collection.
+
+##### OpenAI Models and Tools
+* [OpenAI Gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+* [CLIP by OpenAI](https://github.com/openai/CLIP) - Connects vision and language.
+* [OpenAI Baselines](https://github.com/openai/baselines) - High-quality implementations of reinforcement learning algorithms.
+* [Jukebox by OpenAI](https://github.com/openai/jukebox) - A neural network that generates music.
+* [OpenAI API](https://openai.com/api/) - Provides access to various OpenAI models.
+* [Whisper by OpenAI](https://github.com/openai/whisper) - A robust speech recognition system with language models.
+* [OpenAI Codex](https://openai.com/codex/) - Powers GitHub Copilot, provides code generation capabilities.
+* [OpenAI Quickstart](https://beta.openai.com/quickstart/) - Guides and resources to quickly start implementing OpenAI models.
+
+##### Tokenization Tools
+* [BERT](https://github.com/google-research/bert) - Pre-trained NLP model by Google, effective in tokenization.
+* [Gensim](https://radimrehurek.com/gensim/) - A Python library for topic modelling and document indexing.
+* [Stanford NLP](https://nlp.stanford.edu/) - A suite of natural language analysis tools.
+* [TextBlob](https://textblob.readthedocs.io/en/dev/) - Simplified text processing in Python.
+* [OpenNLP](https://opennlp.apache.org/) - Machine learning-based toolkit for processing natural language text.
+* [Moses](https://www.statmt.org/moses/) - Moses: A statistical machine translation system.
+* [Polyglot](https://github.com/aboSamoor/polyglot) - Polyglot: Natural language pipeline that supports multilingual applications.
+* [UIMA](https://uima.apache.org/) - UIMA: Framework for analysis and annotation of unstructured content.
+
+##### Video
+* [Fliki](https://www.fliki.ai/) - Video creation tool.
+* [Lumen5](https://www.lumen5.com/) - AI-powered platform for engaging video content creation.
+* [Synthesia](https://www.synthesia.io/) - Generates videos from text inputs.
+* [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
+* [Runway](https://www.runwayml.com/) - Video tool.
+* [Pictory](https://www.pictory.ai/) - Video tool.
+* [Flexclip](https://www.flexclip.com/) - Offers templates and tools for editing and creating videos.
+* [Elai](https://www.elai.io/) - Customized AI video creation platform.
+* [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
 ---
 
 ## Connect with Us
