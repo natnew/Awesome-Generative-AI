@@ -230,6 +230,15 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 
 **[⬆ back to top](#contents)**
 
+##### Deep Learning and Neural Network Tools
+* [Chainer](https://chainer.org/) - Chainer: A flexible framework for neural networks, particularly powerful for research and development.
+* [ONNX (Open Neural Network Exchange)](https://onnx.ai/) - ONNX (Open Neural Network Exchange): An open ecosystem for interchangeable AI models.
+* [Seldon](https://www.seldon.io/) - Seldon: An open-source platform for deploying machine learning models in Kubernetes.
+* [Deeplearning4j](https://deeplearning4j.konduit.ai/) - Deeplearning4j: An open-source deep-learning library for the Java Virtual Machine.
+* [Neuroph](https://neuroph.sourceforge.net/) - Neuroph: A lightweight Java neural network framework.
+
+**[⬆ back to top](#contents)**
+
 ##### Design Generators
 * [Khroma](http://www.khroma.co/) - AI color tool for designers, offering color discovery and selection.
 * [Uizard](https://uizard.io/) - Enables rapid design of interfaces and conversion of screenshots to mockups.
@@ -239,6 +248,20 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 
 **[⬆ back to top](#contents)**
 
+##### Ethics and Society
+* [Future of Life Institute](https://futureoflife.org/) - Focuses on existential risks facing humanity, particularly artificial intelligence.
+* [The Partnership on AI](https://partnershiponai.org/) - A partnership between major tech companies and non-profits for the responsible development of AI.
+* [AI Now Institute](https://ainowinstitute.org/) -Researches the social implications of artificial intelligence.
+* [Ethics in AI Research Initiative by Google](https://blog.research.google/2023/03/responsible-ai-at-google-research.html) - A program to support research on responsible AI development.
+* [Center for AI and Digital Policy (CAIDP)](https://www.caidp.org/) - Promotes a better society through responsible AI and digital policy.
+* [Ethical AI Toolkit](https://rai-toolkit.github.io/) - A toolkit to help incorporate ethical considerations in AI development.
+* [AI Ethics Lab](https://aiethicslab.com/) - Provides practical tools and methods for integrating ethics into AI research and development.
+* [Deon](https://deon.drivendata.org/) - A command-line tool that allows data scientists and developers to easily add ethical considerations checklists to their projects.
+* [Ethics Canvas](https://www.ethicscanvas.org/) - A framework for exploring the ethical impact of AI technologies.
+* [Ought](https://ought.org/) - A tool for experimenting with mechanisms for delegating open-ended cognitive work to AI.
+* [Women in AI Ethics](https://womeninaiethics.org/about-us/) - Community of women who are leaders in the AI ethics industry.
+
+**[⬆ back to top](#contents)**
 ##### Frameworks and Models
 * [TensorFlow](https://www.tensorflow.org/) - Developed by the Google Brain team, this open-source AI library is used for machine learning and deep neural network research.
 * [Sci-kit Learn](https://scikit-learn.org/) - A Python library for machine learning tasks like classification, regression, and clustering.
@@ -310,11 +333,11 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 **[⬆ back to top](#contents)**
 
 ##### Machine Learning Deployment and MLOps Tools
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Kubeflow](https://www.kubeflow.org/) - An open-source project dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable.
+* [MLServer](https://mlserver.readthedocs.io/) - An open-source inference server to serve machine learning models in production.
+* [Tecton](https://www.tecton.ai/) - A data platform for machine learning, providing an easy way to build and deploy features for real-time machine learning models.
+* [Polyaxon](https://polyaxon.com/) - A platform for reproducible and scalable machine learning and deep learning on Kubernetes.
+* [Valohai](https://valohai.com/) - A deep learning management platform that automates machine learning infrastructure on any cloud or on-premises.
 
 **[⬆ back to top](#contents)**
 
@@ -447,6 +470,15 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Moses](https://www.statmt.org/moses/) - Moses: A statistical machine translation system.
 * [Polyglot](https://github.com/aboSamoor/polyglot) - Polyglot: Natural language pipeline that supports multilingual applications.
 * [UIMA](https://uima.apache.org/) - UIMA: Framework for analysis and annotation of unstructured content.
+
+**[⬆ back to top](#contents)**
+
+##### Visualization and Analytics Tools
+* [Datawrapper](https://www.datawrapper.de/) - An easy-to-use tool for creating interactive charts and maps.
+* [D3.js](https://d3js.org/) - A JavaScript library for producing dynamic, interactive data visualizations in web browsers.
+* [Sigma.js](https://www.sigmajs.org/) - A JavaScript library dedicated to graph drawing, for networks and other relational data.
+* [Vega](https://vega.github.io/) - A visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
+* [Highcharts](https://www.highcharts.com/) - A JavaScript charting library that makes it easy to add interactive charts to web and mobile projects.
 
 **[⬆ back to top](#contents)**
 
