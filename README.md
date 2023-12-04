@@ -116,7 +116,9 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Harvard Business Review  AI Section](https://hbr.org/) - Offers insights on AI's impact on business.
 * [AI Magazine](https://aaai.org/) - Published by the Association for the Advancement of Artificial Intelligence.
 * [ScienceDaily (Artificial Intelligence News)](https://www.sciencedaily.com/) - Covers the latest research news in AI.
-
+  
+**[⬆ back to top](#contents)**
+  
 ##### Audio - Voice Generators
 * [Replica](https://replika.ai/) - AI-powered voice generator for producing voice lines.
 * [Speechify](https://speechify.com/) - Text-to-speech reader with natural-sounding voice.
