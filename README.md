@@ -12,7 +12,7 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 
 ---
 
-## Table of Contents
+## Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Featured Projects](#featured-projects)
