@@ -15,6 +15,7 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 ## Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
+- [What is Generative AI?](#what-is-generative-ai)
 - [Featured Projects](#featured-projects)
 - [Interactive Experiences](#interactive-experiences)
 - [Educational Resources](#educational-resources)
@@ -41,6 +42,21 @@ Generative AI is not just about technology; it's about the art of the possible. 
 New to generative AI? No worries! Our step-by-step guide will help you set up your environment and start exploring the world of AI-driven creativity.
 
 [Start your journey here](LINK_TO_SETUP_GUIDE.md)
+
+---
+
+## What is Generative AI?
+*[`^        back to the top        ^`](#Awesome-Generative-AI)** <br>
+
+ What is Generative AI?
+ <br>
+| Link | Preview |
+| --- | --- |
+| [What is generative AI? - McKinsey & Company](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai) | Generative artificial intelligence (AI) describes algorithms (such as ChatGPT) that can be used to create new content, including audio, code, images, text, simulations, and videos. Recent breakthroughs in the field have the potential to drastically change the way we approach content creation. 
+| [What is generative AI? - Gartner](https://www.gartner.com/en/topics/generative-ai) | Generative AI can learn from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don’t repeat it. It can produce a variety of novel content, such as images, video, music, speech, text, software code and product designs.   |
+| [What is Generative AI? - Nvidia](https://www.nvidia.com/en-us/glossary/generative-ai/) | Generative AI enables users to quickly generate new content based on a variety of inputs. Inputs and outputs to these models can include text, images, sounds, animation, 3D models, or other types of data. |
+| [What Is Generative AI: A Super-Simple Explanation Anyone Can Understand- Forbes](https://www.forbes.com/sites/bernardmarr/2023/09/19/what-is-generative-ai-a-super-simple-explanation-anyone-can-understand/) | The term AI, as it's used today, refers to computer algorithms that can effectively simulate human cognitive processes - learning, decision-making, problem-solving, and even creativity. |
+| [The Turing Lectures: What is generative AI?](https://www.turing.ac.uk/events/turing-lectures-what-generative-ai) | Generative AI refers to a type of artificial intelligence that involves creating new and original data or content. Unlike traditional AI models that rely on large datasets and algorithms to classify or predict outcomes, generative AI models are designed to learn the underlying patterns and structure of the data and generate novel outputs that mimic human creativity.   |
 
 ---
 
