@@ -1,7 +1,4 @@
 # Learn Generative AI 📚
-
-![Educational Materials Banner](LINK_TO_EDUCATIONAL_MATERIALS_BANNER)
-
 Welcome to your learning hub for Generative AI! Whether you're starting from scratch or looking to polish your skills, we've got a treasure trove of resources. Dive into tutorials, courses, and fun learning activities designed to make your journey in AI both enlightening and enjoyable.
 
 ---
@@ -17,8 +14,6 @@ Welcome to your learning hub for Generative AI! Whether you're starting from scr
 ---
 
 ## Beginner's Corner 🌱
-![Beginner's Corner](LINK_TO_BEGINNERS_CORNER_IMAGE)
-
 New to Generative AI? Start your adventure here with these beginner-friendly resources:
 
 - **Basics of AI and Machine Learning**: [Read More](LINK_TO_AI_ML_BASICS)
@@ -28,8 +23,6 @@ New to Generative AI? Start your adventure here with these beginner-friendly res
 ---
 
 ## Advanced Learning 🎓
-![Advanced Learning](LINK_TO_ADVANCED_LEARNING_IMAGE)
-
 For those ready to delve deeper, these resources will challenge and expand your understanding:
 
 - **Advanced Machine Learning Techniques**: [Learn More](LINK_TO_ADVANCED_ML_TECHNIQUES)
@@ -39,8 +32,6 @@ For those ready to delve deeper, these resources will challenge and expand your 
 ---
 
 ## Interactive Tutorials 💻
-![Interactive Tutorials](LINK_TO_INTERACTIVE_TUTORIALS_IMAGE)
-
 Get hands-on with our interactive tutorials. Learn by doing and see real-time results of your AI experiments:
 
 - **AI Art Interactive Tutorial**: [Create Art](LINK_TO_AI_ART_TUTORIAL)
@@ -50,8 +41,6 @@ Get hands-on with our interactive tutorials. Learn by doing and see real-time re
 ---
 
 ## Webinars and Workshops 🎥
-![Webinars and Workshops](LINK_TO_WEBINARS_IMAGE)
-
 Join our expert-led webinars and workshops. Gain insights from professionals and interact with a global community:
 
 - **Upcoming Webinars**: [View Schedule](LINK_TO_WEBINAR_SCHEDULE)
@@ -61,8 +50,6 @@ Join our expert-led webinars and workshops. Gain insights from professionals and
 ---
 
 ## Community Learning 🤝
-![Community Learning](LINK_TO_COMMUNITY_LEARNING_IMAGE)
-
 Learn with and from the community. Share knowledge, ask questions, and collaborate on projects:
 
 - **Community Forums**: [Join Discussions](LINK_TO_FORUMS)
@@ -72,8 +59,6 @@ Learn with and from the community. Share knowledge, ask questions, and collabora
 ---
 
 ## Book Recommendations 📖
-![Book Recommendations](LINK_TO_BOOK_RECOMMENDATIONS_IMAGE)
-
 Enhance your learning with these curated book recommendations covering a range of topics in AI:
 
 - **For Beginners**: [See List](LINK_TO_BOOKS_FOR_BEGINNERS)
