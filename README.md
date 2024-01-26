@@ -24,6 +24,8 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 - [Art and Media Gallery](#art-and-media-gallery)
 - [Discussions and Support](#discussions-and-support)
 - [Additional Resources](#additional-resources)
+- [Infographics](#infographics)
+- [Awesome List](#awesome-generative-ai-list)
 
 ---
 
@@ -120,7 +122,18 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 [Discover More](LINK_TO_ADDITIONAL_RESOURCES.md)
 
 ---
+## Infographics
 
+| Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg)    | [ The three requirements of a successful generative AI model.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg)    | [The diagram shows possible generative AI use cases within each category.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="" width="150" />]()    | []() |
+| [<img src="" width="150" />]()    | | []() |
+| [<img src="" width="150" />]()    | []() |
+| [<img src="" width="150" />]()    | | []() |
+
+---
 ## Awesome Generative AI List
 
 ##### Articles
