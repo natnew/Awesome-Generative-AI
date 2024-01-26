@@ -317,6 +317,19 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 
 **[⬆ back to top](#contents)**
 
+##### Guides
+* [DEV Community](https://dev.to/) - It covers setting up the environment, understanding generative models, and building a simple Generative Adversarial Network (GAN) with a focus on image datasets.
+* [Flan](https://www.promptingguide.ai/models/flan)- Scaling Instruction-Finetuned Language Models
+* [ChatGPT](https://www.promptingguide.ai/models/chatgpt) - ChatGPT Prompt Engineering
+* [LLaMA](https://www.promptingguide.ai/models/llama)- LLaMA: Open and Efficient Foundation Language Models
+* [GPT-4](https://www.promptingguide.ai/models/gpt-4) - Prompt engineering techniques for GPT-4, including tips, applications, limitations, and additional reading materials.
+* [Mistral](https://www.promptingguide.ai/models/mistral-7b) - Mistral 7B is a 7-billion-parameter language model released by Mistral AI.
+* [Gemini](https://www.promptingguide.ai/models/gemini) - Getting Started with Gemini
+* [Phi-2](https://www.promptingguide.ai/models/phi-2) - Overview of the Phi-2, a 2.7 billion parameter language model.
+* [LLM Collection](https://www.promptingguide.ai/models/collection) - This section consists of a collection and summary of notable and foundational LLMs.
+
+**[⬆ back to top](#contents)**
+
 ##### HR and Recruiting
 * [Paradox](https://www.paradox.ai/) - AI tool for human resources.
 * [Textio](https://www.textio.com/) - AI tool for job listing optimization.
@@ -367,6 +380,52 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 * [Tecton](https://www.tecton.ai/) - A data platform for machine learning, providing an easy way to build and deploy features for real-time machine learning models.
 * [Polyaxon](https://polyaxon.com/) - A platform for reproducible and scalable machine learning and deep learning on Kubernetes.
 * [Valohai](https://valohai.com/) - A deep learning management platform that automates machine learning infrastructure on any cloud or on-premises.
+
+**[⬆ back to top](#contents)**
+
+##### Miscellaneous Tools
+| Link | Description |
+| --- | --- |
+| [SingSong](https://storage.googleapis.com/sing-song/index.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_4zfBvV84quJyYowB_7sImvE4t7Wffz-45FHrPoTz2URuxI_3N0s5Ws1yVPgIbfLJR1T6h) | We present SingSong, a system which generates instrumental music to accompany input vocals, potentially offering musicians and non-musicians alike an intuitive new way to create music featuring their own voice. |
+| [AI21labs](https://www.ai21.com/) |  Build generative AI applications that solve today's business challenges, powered by AI21's state-of-the-art foundation and task-specific models.  |
+| [HuggingFace AI Community](https://huggingface.co/) |  Host and collaborate on unlimited models, datasets and applications. |
+| [DeepSpeed](https://www.microsoft.com/en-us/research/project/deepspeed/) |  DeepSpeed is an easy-to-use deep learning optimization software suite that enables unprecedented scale and speed for DL Training and Inference.  |
+| [Eleuther.ai](https://www.eleuther.ai/) |  Empowering Open-Source Artificial Intelligence Research |
+| [Chainer.org](https://chainer.org/) | A Powerful, Flexible, and Intuitive Framework for Neural Networks  |
+| [Kubeflow](https://www.kubeflow.org/) | The Machine Learning Toolkit for Kubernetes  |
+| [Ainow](https://ainowinstitute.org/) |  The AI Now Institute produces diagnosis and actionable policy research on artificial intelligence. |
+| [Microsoft responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | About Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems.   |
+| [Trulens](https://www.trulens.org/) |  Evaluate, iterate faster, and select your best LLM app with TruLens. |
+| [Jailbreak Chat](https://www.jailbreakchat.com/) |Your weekly report on all things AI and language models. Read by over 10,000 others at places like at Google, Tesla, Microsoft, a16z, and more. |
+| [ETHICAL INTELLIGENCE](https://www.ethicalintelligence.co/) | Elevating the human in the equation|
+| [Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=llama&utm_content=link) | An umbrella project featuring open trust and safety tools and evaluations meant to level the playing field for developers to responsibly deploy generative AI models and experiences in accordance with best practice|
+| [Oxa](https://oxa.tech/?utm_source=otta.com) |Self-driving software and services that unlock the power of autonomy. |
+| [Deeprender.ai](https://deeprender.ai/?utm_source=otta.com) | Developing the next generation of compression technology using AI, we’re here to completely rethink, reshape and revolutionise what’s possible.|
+| [Papercup](https://www.papercup.com/?utm_source=otta.com) | We use data from real actors to produce voices so real that audiences can’t tell them apart from the real thing.|
+| [Onfido](https://onfido.com/?utm_source=otta.com) | Create trust at onboarding and beyond with a complete, AI-powered digital identity solution built to help you know your customers online.  |
+| [Quantexa](https://www.quantexa.com/?utm_source=otta.com) | Protect, optimize, and grow your organization with the power of Quantexa’s Decision Intelligence Platform and outcome-driven solutions.|
+| [Synthesia](https://www.synthesia.io/academy) | Our AI Video Generator enables everyone to create professional videos without mics, cameras, actors or studios.|
+| [Causalens.com](https://causalens.com/resource-hub/) |Gain insights into Causal AI from blogs, white papers, case studies, webinars, and more. |
+|[Robina](https://www.robinai.com/) | The AI Copilot for your Contracts|
+|[PhysicsX](https://www.physicsx.ai/) | We are building AI and simulation engineering technologies to reinvent the design and operation of machines and products in advanced industries, with a strong focus on applications impacting the climate and human health.|
+|[Pitch](https://pitch.com/?utm_source=substack&utm_medium=email) | Pitch is the fastest way for your team to create and share beautiful presentations that get results.|
+|[Playgroundai](https://blog.playgroundai.com/) | At Playground, we’re building an image editor that combines AI research and product design to enable people to create graphics like a Pro without being one.|
+|[Nexusflow.ai](https://nexusflow.ai/blogs/ravenv2?utm_source=substack&utm_medium=email) |Open source NexusRaven-V2, a 13B LLM outperforming GPT-4 in zero-shot function calling, the capability to turn natural language instructions into executable code to use tools. |
+|[Perplexity](https://www.perplexity.ai/) | Copilot |
+|[Giskard](https://www.giskard.ai/) |Eliminate risks of biases, performance issues & security holes in ML models. In <8 lines of code. |
+|[Haystack](https://haystack.deepset.ai/) |Open-source LLM framework to build production-ready applications |
+|[Bing Chat](www.bing.com) |Your everyday AI companion |
+|[N-Bref](https://ai.meta.com/blog/introducing-n-bref-a-neural-based-decompiler-framework/) | Introducing N-Bref: a neural-based decompiler framework|
+|[Hydra](https://hydra.cc/)| A framework for elegantly configuring complex applications|
+|[Ml-ferret](https://github.com/apple/ml-ferret)|An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response.  |
+|[GTN](https://ai.meta.com/blog/a-new-open-source-framework-for-automatic-differentiation-with-graphs/)|A new open source framework for automatic differentiation with graphs |
+|[ParlAI](https://ai.meta.com/tools/parlai/)| ParlAI is a unified platform that streamlines the process of researching, training, and evaluating conversational AI models across multiple tasks at once. |
+|[Dynabench](https://ai.meta.com/tools/dynabench/)|DynaBench is a research platform for dynamic data collection and benchmarking.  |
+|[KILT Benchmarking](https://ai.meta.com/tools/kilt/)|KILT is a resource for training, evaluating and analyzing NLP models on Knowledge Intensive Language Tasks.|
+|[Glow](https://ai.meta.com/tools/glow/)|Glow is a machine learning compiler that accelerates the performance of deep learning frameworks on different hardware platforms. |
+|[AudioCraft](https://ai.meta.com/resources/models-and-libraries/audiocraft/)|AudioCraft is a single-stop code base for all your generative audio needs: music, sound effects, and compression after training on raw audio signals. We have released controllable and high-quality models for music and audio generation from text inputs. |
+|[ELF](https://ai.meta.com/tools/elf/)| ELF is an extensive, lightweight, and flexible platform for game research that allows researchers and developers to train and test their algorithms in various game environments from board games to custom real-time strategy games.|
+|[PHYRE](https://ai.meta.com/tools/phyre/)| PHYRE is a benchmark for PHYsical REasoning that contains a set of simple classical mechanics puzzles in a 2D environment.|
 
 **[⬆ back to top](#contents)**
 
