@@ -1,7 +1,5 @@
 # More About Our Vision 🌟
 
-![Vision Banner](LINK_TO_VISION_IMAGE)
-
 Welcome to the heart of `Awesome-Generative-AI`, where dreams meet reality through the lens of generative AI! 🚀
 
 ---
@@ -27,14 +25,15 @@ Here at `Awesome-Generative-AI`, we envision a world where AI isn't just a tool,
 ---
 
 ## The Journey So Far 🛤️
-![Journey Image](LINK_TO_JOURNEY_IMAGE)
 
 Our journey began as a small group of enthusiasts, and look where we are now! Here’s a quick timeline:
-- **2019**: 
-- **2021**: 
-- **2023**: 
+- **2019**: As a community, we started as programmers and software engineers, laying the groundwork for AI. Our focus was on developing algorithms and creating robust AI systems. Python emerged as our go-to language, thanks to its simplicity and extensive libraries.
+- **2021**: We evolved into Python specialists, mastering its use for data analysis and implementing machine learning algorithms. This year was pivotal in enhancing our coding skills specifically tailored for AI applications.
+- **2022**: Our journey took us deeper into data science. We became adept at interpreting complex data and employing machine learning models for insightful predictions. This year was about harnessing data to drive informed decisions.
+- **2023**: We transformed into machine learning engineers, focusing on deploying AI models in real-world applications. Our expertise bridged theoretical machine learning and its practical, impactful uses in various industries.
+- **2024**: Now, we are pioneers in Generative AI. Our skills are not just in creating AI models, but in designing systems that autonomously generate creative and human-like outputs, pushing the boundaries of AI's capabilities and applications.
 
-🎥 **Watch Our Story**: [The `Awesome-Generative-AI` Story](LINK_TO_VIDEO)
+🎥 **Watch Our Story**: [The `Awesome-Generative-AI` Story](https://github.com/natnew/Awesome-Generative-AI)
 
 ---
 
