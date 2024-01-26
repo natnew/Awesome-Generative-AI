@@ -1,7 +1,4 @@
 # Contribute to Awesome-Generative-AI 🌟
-
-![Contribute Banner](LINK_TO_CONTRIBUTE_BANNER)
-
 Welcome to the collaboration station of `Awesome-Generative-AI`! Your ideas, skills, and passion for generative AI can help shape the future of this exciting field. Whether you're a coder, an artist, a writer, or just someone with big ideas, there's a place for you here.
 
 ---
@@ -18,8 +15,6 @@ Welcome to the collaboration station of `Awesome-Generative-AI`! Your ideas, ski
 ---
 
 ## Why Contribute? 💭
-![Why Contribute](LINK_TO_WHY_CONTRIBUTE_IMAGE)
-
 Contributing to `Awesome-Generative-AI` is not just about coding. It's about being a part of a community that’s at the forefront of AI innovation. Here’s why you should get involved:
 
 - **Learn and Grow**: Enhance your skills and knowledge in a practical, real-world setting.
@@ -29,8 +24,6 @@ Contributing to `Awesome-Generative-AI` is not just about coding. It's about bei
 ---
 
 ## How Can I Contribute? 🛠️
-![How to Contribute](LINK_TO_HOW_TO_CONTRIBUTE_IMAGE)
-
 There are many ways you can contribute to our project:
 
 - **Code Contributions**: Submit bug fixes, improvements, or new features.
@@ -44,8 +37,6 @@ There are many ways you can contribute to our project:
 ---
 
 ## Contribution Guidelines 📝
-![Contribution Guidelines](LINK_TO_CONTRIBUTION_GUIDELINES_IMAGE)
-
 To ensure a smooth contribution process, please follow our guidelines:
 
 1. **Read our Contribution Guidelines**: Familiarize yourself with our standards and practices.
@@ -57,8 +48,6 @@ To ensure a smooth contribution process, please follow our guidelines:
 ---
 
 ## Setting Up Your Environment 🌐
-![Setting Up](LINK_TO_SETTING_UP_IMAGE)
-
 Get your development environment ready with these simple steps:
 
 1. **Fork the Repository**: Create your own copy of our project.
@@ -70,8 +59,6 @@ Get your development environment ready with these simple steps:
 ---
 
 ## Submitting Your Contributions 🚀
-![Submitting Contributions](LINK_TO_SUBMITTING_CONTRIBUTIONS_IMAGE)
-
 Ready to submit your work? Here's how to do it:
 
 1. **Push to Your Fork**: Upload your changes to your GitHub fork.
@@ -83,8 +70,6 @@ Ready to submit your work? Here's how to do it:
 ---
 
 ## Community Code of Conduct 🤝
-![Code of Conduct](LINK_TO_CODE_OF_CONDUCT_IMAGE)
-
 We are committed to providing a welcoming and inspiring community for all. Our Code of Conduct outlines our expectations for participant behavior.
 
 [Read our Code of Conduct](LINK_TO_CODE_OF_CONDUCT)
@@ -92,8 +77,6 @@ We are committed to providing a welcoming and inspiring community for all. Our C
 ---
 
 ## Acknowledgements 🌟
-![Acknowledgements](LINK_TO_ACKNOWLEDGEMENTS_IMAGE)
-
 Your contributions make a difference! We appreciate and acknowledge the hard work and creativity of our contributors.
 
 ---
