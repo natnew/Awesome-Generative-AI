@@ -8,7 +8,7 @@
 Created by [NatNew](https://github.com/natnew) and [Contributors](https://github.com/natnew/Awesome-Generative-AI/settings/access)
 
 ## About
-**Awesome-Generative-AI** is your go-to repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
+**Awesome-Generative-AI** is your go-to open source repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
 
 ---
 
@@ -27,7 +27,7 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 ---
 
 ## Introduction
-![Generative AI Illustration](LINK_TO_INTRO_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Generative AI is not just about technology; it's about the art of the possible. In this section, we delve into the vision, scope, and potential of generative AI. Learn about our community and how you can be a part of this exciting journey.
 
