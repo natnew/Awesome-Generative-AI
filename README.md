@@ -36,7 +36,7 @@ Generative AI is not just about technology; it's about the art of the possible. 
 ---
 
 ## Getting Started
-![Setup Guide](LINK_TO_GETTING_STARTED_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 New to generative AI? No worries! Our step-by-step guide will help you set up your environment and start exploring the world of AI-driven creativity.
 
@@ -45,7 +45,7 @@ New to generative AI? No worries! Our step-by-step guide will help you set up yo
 ---
 
 ## Featured Projects
-![Featured Projects Collage](LINK_TO_FEATURED_PROJECTS_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Dive into our curated collection of the most innovative and inspiring generative AI projects. Each project comes with a comprehensive description, source codes, and insights.
 
@@ -54,7 +54,7 @@ Dive into our curated collection of the most innovative and inspiring generative
 ---
 
 ## Interactive Experiences
-[![Interactive Demo](LINK_TO_DEMO_VIDEO)](LINK_TO_INTERACTIVE_TOOL)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Experience AI like never before with our interactive demos. Play around with AI models, create your art, music, or text, and see the magic unfold in real time.
 
@@ -63,14 +63,14 @@ Experience AI like never before with our interactive demos. Play around with AI 
 ---
 
 ## Educational Resources
-![Educational Materials](LINK_TO_EDUCATIONAL_RESOURCES_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Whether you're a beginner or an advanced learner, our collection of tutorials, guides, and resources will help you deepen your understanding of generative AI.
 
 [Learn More](LINK_TO_EDUCATIONAL_RESOURCES.md)
 
 ## Community Contributions
-![Community Contributions](LINK_TO_COMMUNITY_CONTRIBUTIONS_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Your creativity can inspire many! Learn how you can contribute to this repository, and check out the amazing work done by our community.
 
@@ -79,7 +79,7 @@ Your creativity can inspire many! Learn how you can contribute to this repositor
 ---
 
 ## Art and Media Gallery
-![AI Art Gallery](LINK_TO_GALLERY_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Enter our virtual gallery showcasing a mesmerizing array of AI-generated art and media. Be inspired and perhaps contribute your masterpiece!
 
@@ -88,7 +88,7 @@ Enter our virtual gallery showcasing a mesmerizing array of AI-generated art and
 ---
 
 ## Discussions and Support
-![Discussions](LINK_TO_DISCUSSIONS_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Got questions? Need help? Join our vibrant community in discussions, Q&A sessions, and get all the support you need for your generative AI journey.
 
@@ -97,7 +97,7 @@ Got questions? Need help? Join our vibrant community in discussions, Q&A session
 ---
 
 ## Additional Resources
-![Additional Resources](LINK_TO_ADDITIONAL_RESOURCES_IMAGE)
+*[`^        back to the top        ^`](#Awesome-Generative-AI)**
 
 Explore more! Here's a list of additional resources, tools, communities, and reading materials to fuel your curiosity and knowledge in generative AI.
 
