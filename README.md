@@ -426,6 +426,27 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 |[AudioCraft](https://ai.meta.com/resources/models-and-libraries/audiocraft/)|AudioCraft is a single-stop code base for all your generative audio needs: music, sound effects, and compression after training on raw audio signals. We have released controllable and high-quality models for music and audio generation from text inputs. |
 |[ELF](https://ai.meta.com/tools/elf/)| ELF is an extensive, lightweight, and flexible platform for game research that allows researchers and developers to train and test their algorithms in various game environments from board games to custom real-time strategy games.|
 |[PHYRE](https://ai.meta.com/tools/phyre/)| PHYRE is a benchmark for PHYsical REasoning that contains a set of simple classical mechanics puzzles in a 2D environment.|
+| [Imagen 2](https://deepmind.google/technologies/imagen-2/?_gl=1*103pahd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) |DeepMind's most advanced text-to-image technology |
+| [SynthID](https://deepmind.google/technologies/synthid/?_gl=1*1d1pazv*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | Identifying AI-generated content with SynthID|
+| [AlphaFold](https://deepmind.google/technologies/alphafold/?_gl=1*1d1pazv*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaFold is accelerating research in nearly every field of biology.|
+| [Phenaki](https://sites.research.google/phenaki/) | A model that can synthesize realistic videos from textual prompt sequences.|
+| [AlphaZero and MuZero](https://deepmind.google/technologies/alphazero-and-muzero/?_gl=1*1b2pf3q*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaZero and MuZero are powerful, general AI systems, that mastered a range of board games and video games — and are now helping us solve real-world problems.|
+| [AlphaGo](https://deepmind.google/technologies/alphago/?_gl=1*1b2pf3q*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) |AlphaGo mastered the ancient game of Go, defeated a Go world champion, and inspired a new era of AI systems. |
+| [PaLM 2](https://ai.google/discover/palm2/) |PaLM 2 is our next generation large language model that builds on Google’s legacy of breakthrough research in machine learning and responsible AI. |
+| [PaLM-SayCan](https://sites.research.google/palm-saycan) | a robotics algorithm that combines the understanding of language models with the real-world capabilities of a helper robot.|
+| [Universal Speech Model](https://sites.research.google/usm/) |Universal Speech Model (USM) is a family of state-of-the-art speech models with 2B parameters trained on 12 million hours of speech and 28 billion sentences of text, spanning 300+ languages.  |
+| [WaveNet](https://deepmind.google/technologies/wavenet/?_gl=1*11al90w*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | Introduced in 2016, WaveNet was one of the first AI models to generate natural-sounding speech. |
+| [AlphaDev](https://deepmind.google/discover/blog/alphadev-discovers-faster-sorting-algorithms/?_gl=1*13ldhkr*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaDev uncovered a faster algorithm for sorting, a method for ordering data. Billions of people use these algorithms everyday without realising it.|
+| [AlphaCode](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/?_gl=1*13ldhkr*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | As part of DeepMind’s mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.|
+| [AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/?_gl=1*184ezsd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. |
+| [AlphaStar](https://deepmind.google/discover/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning/?_gl=1*184ezsd*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..) | AlphaStar is the first AI to reach the top league of a widely popular esport without any game restrictions.|
+| [Gemini](https://deepmind.google/technologies/gemini/?_gl=1*19sdu58*_up*MQ..*_ga*MTU0ODc3NDE4LjE3MDYwNDY0MTY.*_ga_LS8HVHCNQ0*MTcwNjA0NjQxNS4xLjAuMTcwNjA0NzM2MC4wLjAuMA..#introduction) | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.|
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+| []() | |
+
 
 **[⬆ back to top](#contents)**
 
