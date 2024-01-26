@@ -49,7 +49,6 @@ At `Awesome-Generative-AI`, it's not just about code. It's about:
 ---
 
 ## Future Horizons 🌅
-![Future Visions](LINK_TO_FUTURE_VISIONS_IMAGE)
 
 The future is bright, and it's filled with AI-generated symphonies, digital canvases, and community-led innovations. Our upcoming projects include:
 
