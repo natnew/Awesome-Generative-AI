@@ -1,8 +1,5 @@
 
 # Additional Resources in Generative AI 🌍
-
-![Resources Banner](LINK_TO_RESOURCES_BANNER)
-
 Welcome to the treasure trove of generative AI resources! Whether you're seeking deeper knowledge, looking for inspiration, or hunting for tools and communities, this is your gateway to a world of external resources. Dive in and explore a universe of AI possibilities!
 
 ---
@@ -18,8 +15,6 @@ Welcome to the treasure trove of generative AI resources! Whether you're seeking
 ---
 
 ## Educational Websites 🏫
-![Educational Websites](LINK_TO_EDUCATIONAL_WEBSITES_IMAGE)
-
 From fundamentals to advanced topics, these websites offer a wealth of knowledge:
 
 - **AI Basics**: [Learn AI Fundamentals](LINK_TO_AI_FUNDAMENTALS_WEBSITE)
@@ -28,8 +23,6 @@ From fundamentals to advanced topics, these websites offer a wealth of knowledge
 ---
 
 ## Online Courses 📚
-![Online Courses](LINK_TO_ONLINE_COURSES_IMAGE)
-
 Upskill with these comprehensive online courses from renowned institutions and platforms:
 
 - **Introductory Course on AI**: [Start Learning](LINK_TO_INTRODUCTORY_COURSE)
@@ -38,8 +31,6 @@ Upskill with these comprehensive online courses from renowned institutions and p
 ---
 
 ## Inspirational Blogs and Articles ✍️
-![Blogs and Articles](LINK_TO_BLOGS_IMAGE)
-
 Stay updated and inspired with these blogs and articles written by experts and enthusiasts:
 
 - **AI Innovations Blog**: [Read Latest Posts](LINK_TO_AI_BLOG)
@@ -48,8 +39,6 @@ Stay updated and inspired with these blogs and articles written by experts and e
 ---
 
 ## Toolkits and Libraries 🛠️
-![Toolkits and Libraries](LINK_TO_TOOLKITS_IMAGE)
-
 Enhance your projects with these essential toolkits and libraries:
 
 - **AI Development Toolkit**: [Download Toolkit](LINK_TO_AI_TOOLKIT)
@@ -58,8 +47,6 @@ Enhance your projects with these essential toolkits and libraries:
 ---
 
 ## Communities and Forums 🌐
-![Communities and Forums](LINK_TO_COMMUNITIES_IMAGE)
-
 Join these vibrant communities and forums to connect, share, and learn from peers:
 
 - **AI Enthusiasts Forum**: [Join the Discussion](LINK_TO_AI_FORUM)
@@ -68,8 +55,6 @@ Join these vibrant communities and forums to connect, share, and learn from peer
 ---
 
 ## Podcasts and Videos 🎧🎥
-![Podcasts and Videos](LINK_TO_PODCASTS_IMAGE)
-
 Listen and watch engaging podcasts and videos for diverse perspectives on AI:
 
 - **AI and Creativity Podcast**: [Listen Here](LINK_TO_AI_PODCAST)
