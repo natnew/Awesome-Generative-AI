@@ -136,6 +136,8 @@ Explore more! Here's a list of additional resources, tools, communities, and rea
 ---
 ## Awesome Generative AI List
 
+![](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/Awesome-Generative-AI.png)
+
 ##### Articles
 * [AI Trends](https://aitrends.com/) - Offers insights on the latest developments in AI.
 * [Synced Review](https://syncedreview.com/) - Reports on AI technology and industry developments.
