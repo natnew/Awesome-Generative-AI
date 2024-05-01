@@ -1,4 +1,5 @@
-# Awesome-Generative-AI
+# Awesome-Generative-AI 
+### Visit the [Website](https://generative-ai-hub.gitbook.io/awesomegenerativeai)
 
 ![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-25%2001.18.11%20-%20AwesomeGenAI.png)
 
