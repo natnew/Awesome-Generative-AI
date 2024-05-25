@@ -10,6 +10,7 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 
 ## About
 **Awesome-Generative-AI** is your go-to open source repository for exploring the dynamic and creative world of generative artificial intelligence. From AI-generated art to innovative applications in various domains, this repository offers a wealth of resources, projects, and inspiration.
+[Project Roadmap](https://redis-roadmap-azure-one.vercel.app/)
 
 ---
 
