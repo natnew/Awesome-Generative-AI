@@ -1290,6 +1290,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Flexclip](https://www.flexclip.com/) - Offers templates and tools for editing and creating videos.
 * [Elai](https://www.elai.io/) - Customized AI video creation platform.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
+* [PVID](http://pvid.app/) - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Image-to-video, text-to-video, video-to-video with 100 free credits.
 
 **[⬆ back to top](#contents)**
 
