@@ -451,6 +451,8 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [GitHub CLI + Copilot](https://cli.github.com/) | GitHub | Copilot in the terminal | `gh extension install github/gh-copilot` |
 
 **[⬆ back to top](#contents)**
+| [toprank](https://github.com/nowork-studio/toprank) | nowork-studio | Open-source Claude Code plugin with 9 SEO and Google Ads skills | `npm install -g toprank` |
+
 
 ##### Cloud Platforms and Virtual Agents
 
@@ -1331,6 +1333,3 @@ flowchart LR
   FW -->|Customization| AI[AI Projects]
 
  
-
-
-
