@@ -1233,6 +1233,7 @@ AI governance frameworks and regulations by jurisdiction.
 | [Lakera Guard](https://www.lakera.ai/) | API | Real-time threat detection |
 | [Garak](https://github.com/leondz/garak) | Tool | LLM vulnerability scanner |
 | [Arthur Shield](https://www.arthur.ai/) | Platform | Toxicity and hallucination detection |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | API/MCP | Trust scoring for AI agents on Solana — verify agent wallet identity before x402 micropayments. Remote streamable-http. |
 
 **Research Organizations:**
 
