@@ -721,6 +721,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's generative AI, trained on licensed content.
 * [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
 * [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
+* [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
 
 **[⬆ back to top](#contents)**
 
