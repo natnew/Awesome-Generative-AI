@@ -255,7 +255,7 @@ Development environments with deeply integrated AI assistance.
 | [Replit](https://replit.com/) | Browser-based IDE | Ghostwriter AI, deployment | Free tier available |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Cloud dev environments | Copilot, pre-configured | Free tier (60 hrs/mo) |
 | [Amazon CodeCatalyst](https://codecatalyst.aws/) | AWS dev environment | CodeWhisperer integration | Free tier available |
-| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code | Plugin for SEO, search analytics, and advertising workflow automation. |
+
 
 **IDE Extensions:**
 
@@ -266,6 +266,7 @@ Development environments with deeply integrated AI assistance.
 | [Tabnine](https://www.tabnine.com/) | Most editors | Privacy-focused completion |
 | [Continue](https://continue.dev/) | VS Code, JetBrains | Open-source AI assistant |
 | [Cody](https://sourcegraph.com/cody) | VS Code, JetBrains | Codebase-aware assistant |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code | Plugin for SEO, search analytics, and advertising workflow automation. |
 
 **[⬆ back to top](#contents)**
 
