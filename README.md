@@ -255,6 +255,7 @@ Development environments with deeply integrated AI assistance.
 | [Replit](https://replit.com/) | Browser-based IDE | Ghostwriter AI, deployment | Free tier available |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Cloud dev environments | Copilot, pre-configured | Free tier (60 hrs/mo) |
 | [Amazon CodeCatalyst](https://codecatalyst.aws/) | AWS dev environment | CodeWhisperer integration | Free tier available |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code | Plugin for SEO, search analytics, and advertising workflow automation. |
 
 **IDE Extensions:**
 
@@ -451,8 +452,6 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [GitHub CLI + Copilot](https://cli.github.com/) | GitHub | Copilot in the terminal | `gh extension install github/gh-copilot` |
 
 **[⬆ back to top](#contents)**
-| [toprank](https://github.com/nowork-studio/toprank) | nowork-studio | Open-source Claude Code plugin with 9 SEO and Google Ads skills | `npm install -g toprank` |
-
 
 ##### Cloud Platforms and Virtual Agents
 
