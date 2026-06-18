@@ -617,6 +617,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [PromptFoo](https://github.com/promptfoo/promptfoo) | Prompt testing | CLI-based prompt evaluation and comparison |
 | [Giskard](https://www.giskard.ai/) | ML testing | Bias and robustness testing |
 | [OpenAI Evals](https://github.com/openai/evals) | Eval framework | OpenAI's evaluation framework |
+| [Future AGI](https://github.com/future-agi/future-agi) | LLM and agent evaluation | Open-source platform for evaluating, tracing, simulating, and improving LLM and AI agent applications. |
 
 **[⬆ back to top](#contents)**
 
@@ -909,6 +910,7 @@ Structured learning paths and certifications for AI skills.
 | [Weights & Biases](https://wandb.ai/) | ML experiment tracking | Prompts, artifacts, sweeps |
 | [Portkey](https://portkey.ai/) | AI gateway | Observability, routing, fallbacks |
 | [Braintrust](https://www.braintrust.dev/) | Eval and logging platform | Experiments, datasets |
+
 
 **[⬆ back to top](#contents)**
 
