@@ -227,6 +227,7 @@ Platforms for building, deploying, and managing AI agents at scale.
 | [Relevance AI](https://relevanceai.com/) | Relevance AI | No-code agents | Visual builder, tool library |
 | [Voiceflow](https://www.voiceflow.com/) | Voiceflow | Conversational agents | Visual design, multi-channel |
 | [Botpress](https://botpress.com/) | Botpress | Open-source agents | Self-hostable, visual flow builder |
+| [AI for Database](https://aifordatabase.com) | AI for Database | Database AI agents | Natural language queries, auto-refreshing dashboards, workflow triggers |
 
 **Microsoft Copilot Ecosystem Clarification:**
 
