@@ -714,6 +714,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [NightCafe](https://creator.nightcafe.studio/) - Art generator using Stable Diffusion and DALL-E 2 models.
 * [BlueWillow](https://www.bluewillow.ai/) - Image design tool.
 * [Bria](https://bria.ai/) - Image design tool.
+* [igly.ai](https://igly.ai/) - AI image editing platform for background removal, inpainting, generative fill, and upscaling.
 * [Stockimg](https://stockimg.ai/) - AI tool for generating stock images.
 * [StarryAI](https://starryai.com/) - Art generator app transforming text prompts into artwork.
 * [Craiyon (formerly DALL·E mini)](https://www.craiyon.com/) - Draws images from text prompts.
