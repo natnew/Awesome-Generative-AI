@@ -69,6 +69,7 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 - **Resources**
   - [Articles](#articles)
   - [Newsletters](#newsletters)
+* [AI Weekly](https://aiweekly.co/) - Independent AI news, 3x/week since 2015 for 44,000+ professionals; the few AI stories that matter.
   - [GitHub Repositories](#github-repositories)
   - [Cybersecurity & OSINT](#cybersecurity--osint)
 - [Featured Projects](#featured-projects)
