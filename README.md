@@ -879,6 +879,7 @@ Structured learning paths and certifications for AI skills.
 | [Llama 3.2 Vision](https://llama.meta.com/) | Meta | Text, vision (open weights) |
 | [Pixtral](https://mistral.ai/) | Mistral | Text, vision |
 | [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) | Alibaba | Text, vision (open weights) |
+| [Boogu-Image-0.1](https://github.com/Boogu-Project/Boogu-Image) | Boogu Project | Image understanding, text-to-image generation, image editing, bilingual text rendering (open weights) |
 
 **[⬆ back to top](#contents)**
 
