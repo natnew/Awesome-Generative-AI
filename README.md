@@ -128,6 +128,7 @@ Dive into our curated collection of the most innovative and inspiring generative
 [↑ Back to top](#contents)
 
 Experience AI like never before with our interactive demos. Play around with AI models, create your art, music, or text, and see the magic unfold in real time.
+* [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows.
 
 [Get Interactive](LINK_TO_INTERACTIVE_EXPERIENCES.md)
 
