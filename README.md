@@ -129,6 +129,8 @@ Dive into our curated collection of the most innovative and inspiring generative
 
 Experience AI like never before with our interactive demos. Play around with AI models, create your art, music, or text, and see the magic unfold in real time.
 
+* [GPT Image 2](https://gptimage2.asia/) - AI image generator and editor for marketing visuals and branded content.
+
 [Get Interactive](LINK_TO_INTERACTIVE_EXPERIENCES.md)
 
 ---
