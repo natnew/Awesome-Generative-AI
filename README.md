@@ -1294,6 +1294,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
 * [Runway](https://www.runwayml.com/) - Video tool.
 * [Pictory](https://www.pictory.ai/) - Video tool.
+* [videos.social](https://videos.social/?utm_source=natnew-awesome-generative-ai&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. Packs from $10. 1 credit = 1 render.
 * [Flexclip](https://www.flexclip.com/) - Offers templates and tools for editing and creating videos.
 * [Elai](https://www.elai.io/) - Customized AI video creation platform.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
