@@ -444,6 +444,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google | Interact with Gemini models | `npm install -g @anthropic-ai/gemini-cli` |
 | [OpenAI CLI](https://platform.openai.com/docs/quickstart) | OpenAI | GPT models from command line | `pip install openai` |
 | [Aider](https://github.com/paul-gauthier/aider) | Open Source | AI pair programming in terminal | `pip install aider-chat` |
+| [Agent QA](https://github.com/vostride/agent-qa) | Vostride | Natural-language web and mobile regression tests with persistent memory and run evidence; source-available under FSL-1.1-ALv2 | `npm install -D agent-qa` |
 | [LangChain CLI](https://python.langchain.com/docs/langchain-cli) | LangChain | Scaffold and manage LangChain projects | `pip install langchain-cli` |
 | [LlamaIndex CLI](https://docs.llamaindex.ai/en/stable/getting_started/installation/) | LlamaIndex | Build and query indices | `pip install llama-index` |
 | [Ollama](https://ollama.ai/) | Ollama | Run open models locally | `curl -fsSL https://ollama.ai/install.sh \| sh` |
