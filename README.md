@@ -911,6 +911,7 @@ Structured learning paths and certifications for AI skills.
 | [Weights & Biases](https://wandb.ai/) | ML experiment tracking | Prompts, artifacts, sweeps |
 | [Portkey](https://portkey.ai/) | AI gateway | Observability, routing, fallbacks |
 | [Braintrust](https://www.braintrust.dev/) | Eval and logging platform | Experiments, datasets |
+| [Bifrost](https://github.com/maximhq/bifrost) | AI gateway | Provider routing, failover, guardrails, usage controls, MCP, observability |
 
 
 **[⬆ back to top](#contents)**
