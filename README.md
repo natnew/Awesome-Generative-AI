@@ -429,6 +429,7 @@ Essential reading for understanding generative AI foundations, applications, and
 * [ManyChat](https://manychat.com/) - Visual bot builder for Facebook Messenger with broadcasts, analytics, scheduled posting, and many other features.
 * [Chatfuel](https://chatfuel.com/) - A leading chatbot platform for Messenger.
 * [Botsify](https://botsify.com/) - A simple way to build AI chatbots for websites.
+* [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 * [Wit.ai](https://wit.ai/) - Voice-activated interface for apps.
 * [Botkit](https://github.com/howdyai/botkit) - A toolkit for making bot applications.
 
