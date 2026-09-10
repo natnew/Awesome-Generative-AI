@@ -1299,6 +1299,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
 * [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
 
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 **[⬆ back to top](#contents)**
 
 ##### Writing and Content Creation
