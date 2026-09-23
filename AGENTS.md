@@ -75,7 +75,7 @@ A recommendation does not mean that a comment was posted, an issue closed, or a 
 
 ## Validation
 
-This Markdown repository needs no application setup, dependency installation, build, or test suite for normal curation. Current GitHub workflows provide Claude assistance and review, not Markdown lint or link validation. Inspect workflows before claiming CI coverage.
+This Markdown repository needs no application setup, dependency installation, build, or test suite for normal curation. The remaining GitHub workflow provides on-demand Claude assistance, not automatic PR review, Markdown lint, or link validation. Inspect workflows before claiming CI coverage.
 
 Run from the repository root:
 
