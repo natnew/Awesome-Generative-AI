@@ -1298,6 +1298,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Elai](https://www.elai.io/) - Customized AI video creation platform.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
 * [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
+* [videos.social](https://videos.social) - Turns articles, PDFs, and prompts into narrated videos with editable scenes, scripts, and voiceovers.
 
 **[⬆ back to top](#contents)**
 
