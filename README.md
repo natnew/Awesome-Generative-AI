@@ -444,6 +444,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google | Interact with Gemini models | `npm install -g @anthropic-ai/gemini-cli` |
 | [OpenAI CLI](https://platform.openai.com/docs/quickstart) | OpenAI | GPT models from command line | `pip install openai` |
 | [Aider](https://github.com/paul-gauthier/aider) | Open Source | AI pair programming in terminal | `pip install aider-chat` |
+| [Agent QA](https://github.com/vostride/agent-qa) | Vostride | Natural-language web and mobile regression tests with persistent memory and run evidence; source-available under FSL-1.1-ALv2 | `npm install -D agent-qa` |
 | [LangChain CLI](https://python.langchain.com/docs/langchain-cli) | LangChain | Scaffold and manage LangChain projects | `pip install langchain-cli` |
 | [LlamaIndex CLI](https://docs.llamaindex.ai/en/stable/getting_started/installation/) | LlamaIndex | Build and query indices | `pip install llama-index` |
 | [Ollama](https://ollama.ai/) | Ollama | Run open models locally | `curl -fsSL https://ollama.ai/install.sh \| sh` |
@@ -911,6 +912,7 @@ Structured learning paths and certifications for AI skills.
 | [Weights & Biases](https://wandb.ai/) | ML experiment tracking | Prompts, artifacts, sweeps |
 | [Portkey](https://portkey.ai/) | AI gateway | Observability, routing, fallbacks |
 | [Braintrust](https://www.braintrust.dev/) | Eval and logging platform | Experiments, datasets |
+| [Bifrost](https://github.com/maximhq/bifrost) | AI gateway | Provider routing, failover, guardrails, usage controls, MCP, observability |
 
 
 **[⬆ back to top](#contents)**
@@ -1298,6 +1300,9 @@ AI governance frameworks and regulations by jurisdiction.
 * [Elai](https://www.elai.io/) - Customized AI video creation platform.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
 * [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
+* [videos.social](https://videos.social) - Turns articles, PDFs, and prompts into narrated videos with editable scenes, scripts, and voiceovers.
+
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 * [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
 
 **[⬆ back to top](#contents)**
