@@ -1302,6 +1302,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
 * [videos.social](https://videos.social) - Turns articles, PDFs, and prompts into narrated videos with editable scenes, scripts, and voiceovers.
 
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 **[⬆ back to top](#contents)**
 
 ##### Writing and Content Creation
