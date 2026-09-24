@@ -23,7 +23,7 @@ A curated Markdown list. `README.md` is the product; there is no application cod
 * Categories are `#####` headings under the main list, in roughly alphabetical order. Each ends with `**[⬆ back to top](#contents)**`; keep it after any added entry.
 * Formats vary by section. Bullet sections use `* [Name](URL) - Description.`. Table sections have their own columns, such as Provider, Best For, Key Features, or Pricing. Copy the column order of the target table exactly.
 * Many older entries break current style rules (for example, descriptions that start with "A"). Apply the rules to new or requested entries only; do not normalise neighbours.
-* Known pre-existing issues, all in protected areas: `## Contents` appears twice, four Contents anchors do not resolve (`agent-frameworks--orchestration`, `audio--music`, `cybersecurity--osint`, `github-repositories`), and `Recently Added` and `Connect with Us` hold stale or placeholder content. Mention these only when relevant, and fix them only when asked.
+* Known pre-existing issues, both in protected areas: `Recently Added` and `Connect with Us` hold stale or placeholder content. Mention these only when relevant, and fix them only when asked.
 
 ## Task Routing
 
@@ -40,7 +40,7 @@ git diff -U0 README.md                                  # confirm only intended 
 git diff --check                                        # whitespace errors
 ```
 
-When you touch headings or anchors, list any Contents links that do not resolve and compare them with the four known ones above:
+When you touch headings or anchors, list any `#` links that do not resolve. It should print `[]`:
 
 ```text
 python3 -c "import re;t=open('README.md').read();s={re.sub(r'[^\w\- ]','',h.lower()).replace(' ','-') for h in re.findall(r'^#+\s+(.*?)\s*$',t,re.M)};print(sorted({l for l in re.findall(r'\]\(#([^)]+)\)',t)}-s))"
