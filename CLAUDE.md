@@ -1,286 +1,63 @@
 # CLAUDE.md
 
-This file guides Claude Code when working in this repository.
-
-This repository is a public, maintained awesome list for generative AI, not an application codebase. There is no build, lint, or test workflow to run for normal review tasks. The `README.md` is the product.
-
-Claude Code should read this file first, then use `AGENTS.md` as the shared repository operating protocol.
-
-## North Star
-
-* Preserve `README.md` as the canonical public artefact.
-* Keep the list selective, durable, technically useful, neutral, and easy to scan.
-* Help the maintainer make fast, consistent, low-friction decisions.
-* Prefer small, precise edits over broad rewrites.
-* Do not broaden the list beyond generative AI and clearly adjacent technical areas already represented in the README.
-
-## Claude’s Role
-
-Claude may assist with:
-
-* PR review
-* Issue triage
-* README entry review
-* Broken-link investigation
-* Duplicate detection
-* Section placement
-* Neutral description rewrites
-* Maintainer comment drafts
-* Small safe maintainer edits when explicitly asked
-* Improvements to agent instruction files when asked
-
-Claude must not:
-
-* Add entries without checking scope, link quality, duplicates, and placement
-* Invent facts about a resource
-* Preserve promotional claims
-* Add ranking, pricing, novelty, adoption, or performance claims without strong evidence
-* Rewrite the taxonomy without explicit instruction
-* Edit unrelated files
-* Touch protected areas unless instructed
-* Ask contributors to make trivial fixes the maintainer can safely make
-
-## Repository Facts
-
-* `AGENTS.md` contains the full tool-agnostic operating protocol.
-* `Contributing.md` contains contributor-facing rules.
-* `Workflow.md` contains PR process detail.
-* `.github/ISSUE_TEMPLATE/` contains public issue guidance.
-* The `README.md` contains introductory content, Contents, Recently Added, infographics, and the main “Awesome Generative AI List”.
-* The main list uses both bullet entries and tables. Match the surrounding section exactly.
-* New entries usually go to the bottom of the relevant category unless local ordering clearly indicates otherwise.
-* New categories should normally be handled separately.
-* Protected areas include badges, Contents, Recently Added, banners, images, infographics, contributor blocks, generated sections, and licence text.
-
-## Always-Loaded Context
-
-Keep this file short. It is an orientation layer, not a manual.
-
-Use this routing:
-
-* Need general agent rules → read `AGENTS.md`
-* Need contribution rules → read `Contributing.md`
-* Need PR process → read `Workflow.md`
-* Need style examples → inspect the target section in `README.md`
-* Need contributor expectations → inspect `.github/ISSUE_TEMPLATE/`
-* Need maintainer precedent → inspect recent issues and merged PRs where available
-
-Do not duplicate long sections from those files here.
-
-## First-Pass Workflow
-
-For any PR, issue, or README task:
-
-1. Read the user request.
-2. Read the relevant issue, PR, diff, or target README section.
-3. Check the repository scope.
-4. Check `Contributing.md` if the task concerns a submission.
-5. Check neighbouring entries for style and placement.
-6. Search for duplicates.
-7. Verify the link where tools allow.
-8. Inspect the resource enough to understand what it is.
-9. Choose the smallest useful action.
-10. Produce a concise decision, edit, or maintainer comment.
-
-## Entry Checklist
-
-Before recommending acceptance or adding an entry, confirm:
-
-* In scope
-* Technically useful
-* Credible source
-* Canonical URL
-* Durable link
-* No duplicate
-* Correct section
-* Local format matched
-* Neutral description
-* No hype
-* No unsupported claims
-* No avoidable tracking parameters
-* No unnecessary new section
-
-## Source Preference
-
-Prefer:
-
-* Official repositories
-* Official documentation
-* Papers
-* Technical reports
-* Benchmarks
-* Datasets
-* Durable project pages
-* Maintained tools and libraries
-* High-quality reference material
-
-Treat cautiously:
-
-* Launch posts
-* Vendor pages
-* Thin wrappers
-* Newsletter posts
-* Social posts
-* Unmaintained repositories
-* Link farms
-* Pages dominated by sales language
-* Time-sensitive comparisons
-
-## Description Rules
-
-Default pattern:
-
-`* [Name](URL) - Clear factual description.`
-
-For tables, preserve the existing column structure.
-
-Descriptions should:
-
-* Start with a capital letter
-* End with a full stop
-* Be short and specific
-* Avoid title case
-* Avoid starting with “A” or “An”
-* Avoid marketing taglines
-* Explain what the resource is, not why it is exciting
-
-Remove or neutralise:
-
-* “best”
-* “latest”
-* “most advanced”
-* “powerful”
-* “revolutionary”
-* “cutting-edge”
-* “game-changing”
-* “industry-leading”
-* “fastest”
-* Unsupported performance, adoption, maturity, or pricing claims
+@AGENTS.md
 
-## Section Placement
+`AGENTS.md` (imported above) is the authoritative operating protocol: eligibility, links, duplicates, placement, formatting, triage decisions, validation, and protected areas. This file adds only Claude-specific orientation and repository facts. If the two conflict, follow `AGENTS.md` and flag the conflict.
 
-| Situation                             | Action                                                |
-| ------------------------------------- | ----------------------------------------------------- |
-| Exact fit in an existing section      | Place there.                                          |
-| Fits two sections                     | Choose the more specific or more discoverable one.    |
-| Similar to neighbouring entries       | Place near those entries if local ordering allows.    |
-| New theme with one entry              | Park, or place in the nearest broader section.        |
-| New theme with several strong entries | Suggest a new section; do not create it unless asked. |
-| Unclear placement                     | Explain the options briefly and recommend one.        |
+## What This Repository Is
 
-## PR Triage
+A curated Markdown list. `README.md` is the product; there is no application code, build, dependency install, linter, or test suite. Do not invent or install one.
 
-| Decision        | Use when                                                                                  |
-| --------------- | ----------------------------------------------------------------------------------------- |
-| Accept as-is    | Scope, link, placement, format, and description are all sound.                            |
-| Maintainer edit | Strong resource needing only minor wording, link, placement, or formatting fixes.         |
-| Request changes | Relevance, evidence, link quality, or placement is materially unclear.                    |
-| Close           | Out of scope, duplicate, promotional, broken with no replacement, or low technical value. |
-| Park            | Promising but immature, needs a taxonomy decision, or needs maintainer judgement.         |
+| Path | Role |
+| --- | --- |
+| `README.md` | The list. Curation happens in `## Awesome Generative AI List` (around line 210 onward). |
+| `Contributing.md` | Submission rules, including the repository threshold: more than 30 days old and at least 60 stars. |
+| `Workflow.md` | Contributor fork-and-PR process. |
+| `.github/workflows/claude.yml` | The only workflow: runs Claude when `@claude` is mentioned, with read-only `contents`, `pull-requests`, and `issues` permissions. No link checking, lint, or automatic review. |
+| `.github/ISSUE_TEMPLATE/` | Generic bug, feature, and custom templates. There is no PR template. |
+| `image/` | Banner and infographic assets. Protected. |
+| `LINK_TO_*.md`, `Events.md`, `Projects.md`, `Resources.md` | Placeholder pages with `LINK_TO_…` stub links. Not part of curation; leave them alone unless asked. |
 
-## Issue Triage
+## README Structure
 
-Suggestion issues:
+* Categories are `#####` headings under the main list, in roughly alphabetical order. Each ends with `**[⬆ back to top](#contents)**`; keep it after any added entry.
+* Formats vary by section. Bullet sections use `* [Name](URL) - Description.`. Table sections have their own columns, such as Provider, Best For, Key Features, or Pricing. Copy the column order of the target table exactly.
+* Many older entries break current style rules (for example, descriptions that start with "A"). Apply the rules to new or requested entries only; do not normalise neighbours.
+* Known pre-existing issues, all in protected areas: `## Contents` appears twice, four Contents anchors do not resolve (`agent-frameworks--orchestration`, `audio--music`, `cybersecurity--osint`, `github-repositories`), and `Recently Added` and `Connect with Us` hold stale or placeholder content. Mention these only when relevant, and fix them only when asked.
 
-* Strong, in scope, canonical → draft entry and recommend acceptance.
-* Strong but wording or placement needs work → recommend maintainer edit.
-* Missing evidence → ask for minimal clarification.
-* Duplicate → close with a pointer to the existing entry.
-* Out of scope → close politely.
-* Premature or taxonomy-dependent → park.
+## Task Routing
 
-Broken-link issues:
+* **PR or issue review**: read the diff or issue, then check it against `AGENTS.md`. Produce a recommendation, not edits, unless asked to edit.
+* **Add or edit an entry**: read the target section and its neighbours first. Make the smallest edit that fits.
+* **Broken-link sweep or multi-PR batch**: this is the one case where parallel subagents help. Split URLs or PRs across agents for link and duplicate checks, then consolidate the results yourself. For a single entry, work inline.
+* **Instruction-file edits** (`CLAUDE.md`, `AGENTS.md`): keep them consistent with each other and with `Contributing.md`. Do not restate `AGENTS.md` here.
 
-* Verify the link.
-* Find a canonical replacement first.
-* Prefer official sources over mirrors.
-* Remove only when no durable replacement exists.
-* Leave a concise note explaining the action.
+## Useful Commands
 
-## Small Safe Fix Rule
+```text
+grep -niE '<name>|<domain>|<owner>/<repo>' README.md   # duplicate search: name, URL, domain, aliases
+git diff -U0 README.md                                  # confirm only intended lines changed
+git diff --check                                        # whitespace errors
+```
 
-Protect contributor goodwill.
+When you touch headings or anchors, list any Contents links that do not resolve and compare them with the four known ones above:
 
-When a resource is suitable and the issue is minor, make or recommend a maintainer edit rather than asking the contributor to revise.
+```text
+python3 -c "import re;t=open('README.md').read();s={re.sub(r'[^\w\- ]','',h.lower()).replace(' ','-') for h in re.findall(r'^#+\s+(.*?)\s*$',t,re.M)};print(sorted({l for l in re.findall(r'\]\(#([^)]+)\)',t)}-s))"
+```
 
-Small safe fixes include:
+For table edits, check that the new row has the same number of `|` separators as the header row.
 
-* Tightening a description
-* Removing hype
-* Fixing punctuation
-* Correcting placement
-* Replacing a non-canonical URL
-* Matching bullet or table format
-* Removing tracking parameters
+In cloud sessions, outbound requests go through a proxy. Blocked, rate-limited, or bot-protected responses are inconclusive; report them as unverified and do not treat them as broken.
 
-## Stop and Ask
+## Review Output
 
-Stop before:
+For PR or issue reviews, report:
 
-* Creating a new top-level section
-* Reordering large parts of the README
-* Editing Contents
-* Editing Recently Added
-* Editing visual assets
-* Changing contribution rules
-* Removing several entries
-* Making broad scope decisions
-* Editing unrelated files
+* **Decision**: accept, maintainer edit, request changes, close, or park.
+* **Evidence**: 1–3 bullets, including the repository age and star count with the date checked where applicable, and any checks you could not complete.
+* **Suggested entry** in the section's exact format, if the resource qualifies.
+* **Maintainer comment**: a short, warm draft. Thank the contributor, state the decision and reason in one sentence, and point to the existing entry for duplicates.
+* **Files changed**, if any.
 
-## Protected Areas
-
-Do not edit unless explicitly instructed:
-
-* Badges
-* Contents
-* Recently Added
-* Banner images
-* Gallery images
-* Infographics
-* Announcement or roadmap blocks
-* Contributor sections
-* Generated indexes
-* Licence text
-* Repository metadata unrelated to the task
-* Private, draft, scratch, or local-only files
-
-## Maintainer Comment Templates
-
-Accept:
-
-“Thank you — this looks relevant, the link is canonical, and the placement works. I would accept this.”
-
-Maintainer edit:
-
-“Thank you — this is a useful resource. I would accept it with a small maintainer edit to tighten the description and keep the wording neutral.”
-
-Request changes:
-
-“Thank you for the suggestion. I think this could fit, but I would ask for a little more context on why this is the canonical source and where it belongs.”
-
-Duplicate:
-
-“Thank you — I would close this as a duplicate because the resource already appears under [section].”
-
-Out of scope:
-
-“Thank you for sharing this. I would close it because it sits outside the current scope of the list.”
-
-Park:
-
-“Thank you — this may be worth revisiting, but I would park it for now until the list has a clearer section for this category.”
-
-## Output Format
-
-For PR or issue review, respond with:
-
-* **Decision**: accept, maintainer edit, request changes, close, or park
-* **Reason**: 1–3 bullets
-* **Suggested README entry**, if useful
-* **Suggested maintainer comment**
-* **Files changed**, if any
-* **Remaining uncertainty**, if any
-
-## Editing Rule
-
-Do not modify `README.md`, `Contributing.md`, `.github` templates, or other files unless explicitly asked.
+A drafted comment is not a posted comment. Do not post, close, approve, or merge unless explicitly asked.
