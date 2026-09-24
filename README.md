@@ -32,14 +32,12 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 
 ## Contents
 
-## Contents
-
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [What is Generative AI?](#what-is-generative-ai)
 - **Building & Development**
   - [Frameworks and Models](#frameworks-and-models)
-  - [Agent Frameworks & Orchestration](#agent-frameworks--orchestration)
+  - [Frameworks & Orchestration](#frameworks--orchestration)
   - [Agent Building Platforms](#agent-building-platforms)
   - [RAG & Retrieval](#rag--retrieval)
   - [Command Line Tools](#command-line-tools)
@@ -56,7 +54,8 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
   - [Writing and Content Creation](#writing-and-content-creation)
   - [Image Design](#image-design)
   - [Video](#video)
-  - [Audio & Music](#audio--music)
+  - [Audio - Voice Generators](#audio---voice-generators)
+  - [Music Generators](#music-generators)
   - [Multimodal Models](#multimodal-models)
 - **Learning & Research**
   - [Learning Platforms](#learning-platforms)
@@ -69,8 +68,8 @@ Created by [NatNew](https://github.com/natnew) and [Contributors](https://github
 - **Resources**
   - [Articles](#articles)
   - [Newsletters](#newsletters)
-  - [GitHub Repositories](#github-repositories)
-  - [Cybersecurity & OSINT](#cybersecurity--osint)
+  - [GitHub Repositories & Code Examples](#github-repositories--code-examples)
+  - [Cybersecurity & OSINT Tools](#cybersecurity--osint-tools)
 - [Featured Projects](#featured-projects)
 - [Community Contributions](#community-contributions)
 
