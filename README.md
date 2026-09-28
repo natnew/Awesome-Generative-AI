@@ -723,6 +723,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
 * [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
 * [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
+* [Raphael AI](https://raphael.app) - Free AI image generator for creating images from text prompts.
 
 **[⬆ back to top](#contents)**
 
