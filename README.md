@@ -452,6 +452,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 | [sgpt](https://github.com/tbckr/sgpt) | Open Source | Shell-GPT for command line | `pip install shell-gpt` |
 | [Warp AI](https://www.warp.dev/) | Warp | AI-native terminal | Desktop app |
 | [GitHub CLI + Copilot](https://cli.github.com/) | GitHub | Copilot in the terminal | `gh extension install github/gh-copilot` |
+| [YYLO](https://github.com/yylo-dev/yylo) | Open Source | Orchestrate AI coding agents — Kanban, task worktrees, and typed merge flows | `npm install -g @yylo/cli` |
 
 **[⬆ back to top](#contents)**
 
