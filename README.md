@@ -1325,6 +1325,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Claude by Anthropic](https://www.anthropic.com/) - AI assistant for text data processing and engaging in natural conversations.
 * [Frase IO](https://www.frase.io/) - Optimizes high-quality SEO content and creates content briefs.
 * [Peppertype.ai](https://www.peppercontent.io/) -  Generates content for blogs, product descriptions, and social media.
+* [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full-length books chapter by chapter, with series story bibles and EPUB, Word, and Markdown export.
 
 **[⬆ back to top](#contents)**
 
