@@ -865,7 +865,6 @@ Structured learning paths and certifications for AI skills.
 | [Weavy](https://www.weavy.com/) | AI-powered design workflows |
 | [CoreML for YOLO](https://docs.ultralytics.com/) | CoreML export for YOLO11 models |
 | [Qwen](https://qwenlm.github.io/) | Qwen 3-Next open model |
-| [FalcoScan](https://falcoscan.com) | Directory for comparing AI tools by category, with a record of discontinued and acquired products. |
 
 
 **[⬆ back to top](#contents)**
