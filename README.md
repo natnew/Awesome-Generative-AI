@@ -1306,6 +1306,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Veed.io](https://www.veed.io/) - Generates professional-quality videos with speech-to-subtitle features.
 * [PVID](https://pvid.app/) - AI video generation platform for photo-to-video, text-to-video, and video-to-video workflows, with access to models such as Kling, Sora, and Veo.
 * [videos.social](https://videos.social) - Turns articles, PDFs, and prompts into narrated videos with editable scenes, scripts, and voiceovers.
+* [ShortSmash](https://github.com/hydope/shortsmash) - Open-source prompt-to-viral-short pipeline: 50-language neural dubbing, vision-verified footage, 1-click publish to 10 platforms.
 
 * [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 * [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
