@@ -976,6 +976,7 @@ Structured learning paths and certifications for AI skills.
 * [Reasoning by Superposition](https://arxiv.org/abs/2505.12514) - Chain of continuous thought theoretical perspective.
 * [Gemini Robotics 1.5](https://arxiv.org/abs/2510.03342) - Embodied reasoning, thinking, and motion transfer.
 * [Weight Transfer for RL Post-Training](https://research.perplexity.ai/) - Training efficiency research.
+* [The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents (2026)](https://ssrn.com/abstract=7186738) - How agents run the reason-act-observe loop: control strategies, trained loops, termination and recovery, skills, and harnesses.
 
 **[⬆ back to top](#contents)**
 
