@@ -1309,6 +1309,7 @@ AI governance frameworks and regulations by jurisdiction.
 
 * [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 * [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
+* [RefVid](https://refvid.com) - Generates 3-15 second product and character videos from 1-5 reference photos, keeping labels, logos and faces consistent across clips.
 
 **[⬆ back to top](#contents)**
 
