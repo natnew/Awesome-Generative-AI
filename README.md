@@ -11,6 +11,7 @@
 
 | Resource | Category | Description |
 |----------|----------|-------------|
+| [artgen](https://artgen.net/en/tools/image-to-pixel-art) | Image Design | Free browser AI image tools (pixel art, bg removal, ASCII) |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Agent Frameworks | Stateful multi-agent orchestration |
 | [Inspect AI](https://inspect.ai-safety-institute.org.uk/) | Evaluation | UK AISI's open-source eval framework |
 | [DSPy](https://github.com/stanfordnlp/dspy) | Frameworks | Programming (not prompting) LLMs |
@@ -710,6 +711,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
   
 ##### Image Design
 
+* [artgen](https://artgen.net/en/tools/image-to-pixel-art) - Free browser AI image tools: image-to-pixel-art, background removal, ASCII art, and more (no signup for core tools).
 * [Midjourney](https://beta.midjourney.com/) - Image design tool.
 * [DALL·E 3 by OpenAI](https://openai.com/) - AI model for image synthesis from text prompts.
 * [NightCafe](https://creator.nightcafe.studio/) - Art generator using Stable Diffusion and DALL-E 2 models.
