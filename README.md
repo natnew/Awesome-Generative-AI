@@ -1332,6 +1332,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Frase IO](https://www.frase.io/) - Optimizes high-quality SEO content and creates content briefs.
 * [Peppertype.ai](https://www.peppercontent.io/) -  Generates content for blogs, product descriptions, and social media.
 * [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full-length books chapter by chapter, with series story bibles and EPUB, Word, and Markdown export.
+* [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 **[⬆ back to top](#contents)**
 
