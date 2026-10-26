@@ -723,6 +723,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's generative AI, trained on licensed content.
 * [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
 * [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library; freemium signup credits, no card required.
 * [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
 
 **[⬆ back to top](#contents)**
@@ -1296,6 +1297,13 @@ AI governance frameworks and regulations by jurisdiction.
 ##### Video
 
 * [Fliki](https://www.fliki.ai/) - Video creation tool.
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 * [Lumen5](https://www.lumen5.com/) - AI-powered platform for engaging video content creation.
 * [Synthesia](https://www.synthesia.io/) - Generates videos from text inputs.
 * [DeepBrain AI](https://www.deepbrain.ai/) - Video tool.
