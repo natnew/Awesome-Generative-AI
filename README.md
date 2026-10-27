@@ -1309,6 +1309,7 @@ AI governance frameworks and regulations by jurisdiction.
 
 * [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 * [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
+* [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) - Open-source, self-hosted studio that turns a one-line idea into a short drama, short video or product ad through script, characters, scenes, props, storyboard shots, voice and edit.
 
 **[⬆ back to top](#contents)**
 
