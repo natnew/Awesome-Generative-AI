@@ -705,6 +705,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Juicebox (PeopleGPT)](https://www.juicebox.ai/) - AI tool for HR processes.
 * [Attract](https://www.attract.ai/) - AI tool for recruitment.
 * [Effy](https://www.effy.ai/) - AI tool for HR management.
+* [JobFinder AI](https://www.jobfinder-ai.com/) - AI job-search agent that finds matching openings, completes applications and reaches hiring managers.
 
 **[⬆ back to top](#contents)**
   
