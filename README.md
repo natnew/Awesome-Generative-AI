@@ -1,6 +1,8 @@
 # Awesome-Generative-AI 
 ### Visit the [Website](https://generative-ai-hub.gitbook.io/awesomegenerativeai)
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 ![Banner Image](https://github.com/natnew/Awesome-Generative-AI/blob/main/image/DALL%C2%B7E%202023-11-25%2001.18.11%20-%20AwesomeGenAI.png)
 
 ---
