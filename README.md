@@ -893,6 +893,7 @@ Structured learning paths and certifications for AI skills.
 * [Soundraw](https://soundraw.io/) - AI tool for creating royalty-free music.
 * [Evoke](https://evokemusic.ai/) - AI-powered music library with a diverse collection.
 * [YuE2](https://github.com/multimodal-art-projection/YuE) - Open-weight song generation model that plans melody and chords as an editable score before rendering vocals and accompaniment.
+* [LyricsGift](https://lyricsgift.com/) - Paid AI service that writes a personalised song from a typed story, with lyrics approved line by line before recording.
 
 **[⬆ back to top](#contents)**
 
