@@ -724,6 +724,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Ideogram](https://ideogram.ai/) - Strong text-in-image generation capabilities.
 * [Leonardo.AI](https://leonardo.ai/) - AI image generation focused on game assets and consistency.
 * [Seedream](https://seed.bytedance.com/en/seedream4_0) - ByteDance image generation and editing model family for high-resolution image creation, multimodal editing, and reference-guided visual workflows.
+* [MakeImg](https://makeimg.ai/) - AI photo generator that turns a text prompt or reference photo into a new image, with 11 models (Nano Banana 2.1, GPT Image 2.5, FLUX.2 Pro, Imagen 4) and free daily credits.
 
 **[⬆ back to top](#contents)**
 
