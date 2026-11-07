@@ -1309,6 +1309,7 @@ AI governance frameworks and regulations by jurisdiction.
 
 * [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
 * [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions.
+* [Imagera](https://imagera.ai/) - AI studio for video, images, voice and music, with Character IDs that keep one face, product or place consistent across shots.
 
 **[⬆ back to top](#contents)**
 
