@@ -585,6 +585,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Colormind](http://colormind.io/) - AI-powered color scheme generator learning from art and photos.
 * [Designs.ai](https://designs.ai/) - Helps users create designs and logos without technical expertise.
 * [Fronty AI](https://fronty.com/) - Converts images to HTML CSS for website design.
+* [objekto.io](https://objekto.io/en) - Designs print-ready multi-part 3D models from a few words, a photo or a sketch, then has them 3D printed and delivered in France.
 
 **[⬆ back to top](#contents)**
 
