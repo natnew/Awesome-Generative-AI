@@ -955,6 +955,7 @@ Structured learning paths and certifications for AI skills.
 * [tl;dv](https://www.tldv.io/) - AI tool for meeting summaries.
 * [Otter.ai](https://www.otter.ai/) - Transcription service.
 * [Fathom](https://www.fathom.ai/) - AI tool for data analysis in meetings.
+* [Glasp](https://glasp.co/) - Browser extension and web app that shows YouTube transcripts with AI summaries and highlights web pages and PDFs.
 
 **[⬆ back to top](#contents)**
 
