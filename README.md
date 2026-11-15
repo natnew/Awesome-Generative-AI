@@ -956,6 +956,7 @@ Structured learning paths and certifications for AI skills.
 * [Otter.ai](https://www.otter.ai/) - Transcription service.
 * [Fathom](https://www.fathom.ai/) - AI tool for data analysis in meetings.
 * [Glasp](https://glasp.co/) - Browser extension and web app that shows YouTube transcripts with AI summaries and highlights web pages and PDFs.
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Web tool, browser extension and API that extract YouTube transcripts with timestamps, export TXT/SRT/VTT, translate them and summarize videos with AI.
 
 **[⬆ back to top](#contents)**
 
