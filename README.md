@@ -887,6 +887,7 @@ Structured learning paths and certifications for AI skills.
 | [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) | Alibaba | Text, vision (open weights) |
 | [Boogu-Image-0.1](https://github.com/Boogu-Project/Boogu-Image) | Boogu Project | Image understanding, text-to-image generation, image editing, bilingual text rendering (open weights) |
 | [MiMo-V2.6](https://huggingface.co/collections/XiaomiMiMo/mimo-v26) | Xiaomi | Text, vision, audio; agentic coding and tool use (open weights) |
+| [Gemini 4 Neon](https://deepmind.google/models/model-cards/gemini-4-neon/) | Google DeepMind | Coding and agentic tasks; adapted from Gemini 4 Carbon (model card) |
 
 **[⬆ back to top](#contents)**
 
