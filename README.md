@@ -491,6 +491,7 @@ CLI tools for interacting with AI models and building AI-powered workflows.
 * [Codeium](https://codeium.com/) - Free AI code completion for multiple IDEs.
 * [Aider](https://github.com/paul-gauthier/aider) - CLI pair programming tool for terminal-based coding.
 * [Continue](https://continue.dev/) - Open-source AI coding assistant, extensible.
+* [AppWizzy](https://appwizzy.com/) - AI web app builder with dedicated cloud development VMs, runtime templates, and Git-backed source editing.
 
 **[⬆ back to top](#contents)**
 
