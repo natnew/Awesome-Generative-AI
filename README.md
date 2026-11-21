@@ -936,6 +936,7 @@ Structured learning paths and certifications for AI skills.
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput serving | PagedAttention optimization |
 | [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | Fine-tuning | Easy configuration-based training |
 | [Unsloth](https://github.com/unslothai/unsloth) | Fast fine-tuning | 2x faster, 60% less memory |
+| [Delta League](https://deltaleague.ai/) | Crowdsourced model improvement | Public contest scoring LoRA, weight-diff or checkpoint submissions to an open model on held-out data, with model lineage preserved |
 
 **[⬆ back to top](#contents)**
 
