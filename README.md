@@ -1341,6 +1341,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Frase IO](https://www.frase.io/) - Optimizes high-quality SEO content and creates content briefs.
 * [Peppertype.ai](https://www.peppercontent.io/) -  Generates content for blogs, product descriptions, and social media.
 * [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full-length books chapter by chapter, with series story bibles and EPUB, Word, and Markdown export.
+* [Kite](https://kite.new) - Design tool where AI agents like Claude, Cursor and Codex draw editable UI screens via MCP, exportable as HTML, React or Tailwind.
 
 **[⬆ back to top](#contents)**
 
