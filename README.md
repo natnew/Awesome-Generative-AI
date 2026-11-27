@@ -1341,6 +1341,7 @@ AI governance frameworks and regulations by jurisdiction.
 * [Frase IO](https://www.frase.io/) - Optimizes high-quality SEO content and creates content briefs.
 * [Peppertype.ai](https://www.peppercontent.io/) -  Generates content for blogs, product descriptions, and social media.
 * [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full-length books chapter by chapter, with series story bibles and EPUB, Word, and Markdown export.
+* [Whizi](https://whizi.io/) - Chat app with GPT, Claude, Gemini, Grok and 280+ other models in one place; switch models mid-conversation and generate images and video.
 
 **[⬆ back to top](#contents)**
 
